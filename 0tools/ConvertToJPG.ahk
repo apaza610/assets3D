@@ -11,9 +11,15 @@
 
 F16:: {
     ;MsgBox(A_Clipboard)     ;E:\assets3D\main\G9_BrennSciFiBundleG9andG8\G9_clothes_arcaneShot.jpg
-    fotoWEBP := A_Clipboard
-    fotoJPG  := StrReplace(fotoWEBP,"webp","jpg")
+    fotoPATH := A_Clipboard
+    SplitPath fotoPATH,,,&extension
     
-    RunWait Format('ffmpeg -i {1} {2}', fotoWEBP, fotoJPG)
-    FileDelete(fotoWEBP)
+    fotoJPG  := StrReplace(fotoPATH,extension,"jpg")
+    
+    RunWait Format('ffmpeg -i {1} {2}', fotoPATH, fotoJPG)
+    FileDelete(fotoPATH)
+}
+
+F20:: {                 ;boton - en teclado numerico extra
+    Send "FanLing8"
 }
