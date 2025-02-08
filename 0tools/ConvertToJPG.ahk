@@ -21,5 +21,5 @@ F16:: {
 }
 
 F20:: {                 ;boton - en teclado numerico extra
-    Send "FanLing8"
+    Send "Twosret8"
 }

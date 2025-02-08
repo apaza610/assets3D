@@ -1,4 +1,7 @@
-body {background-color: #393939;}
+body {
+    background-color: #393939;
+    color: white;
+}
 
 img {
     max-width: 250px;
