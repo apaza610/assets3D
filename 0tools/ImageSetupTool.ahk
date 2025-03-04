@@ -142,3 +142,28 @@ F16:: {                    ; es el boton -
         Run(Format('PowerShell.exe -NoProfile -ExecutionPolicy Bypass -File {1} {2}', ElScript, PathZIP))
     }
 }
+
+; quitar espacios en blanco y guiones de nombres de files
+F20::ArreglarPath()
+
+ArreglarPath() {
+    oldPath := StrReplace(A_Clipboard, '"',)         ; evitar comillas dobles
+    if oldPath {
+        SplitPath(oldPath, &nombre, &folder, &extension, &nombreSinExt, &disco)
+        nombreFix := RegExReplace(nombreSinExt, "\b(\w)", "$U1")  ; capitalizar each word
+        nombreFix := RegExReplace(nombreFix,"[\s-_]",)       ; quitar espacios y rayas
+
+        newPath := RegExReplace(oldPath,nombreSinExt,nombreFix)
+        FileMove(oldPath, newPath)
+    }
+    else {
+        MsgBox("previamente capture path con: Ctrl Shift C")
+    }
+
+    ; cadena := "asi es-el phi 314"
+    ; ej1 := RegExReplace(cadena,"\s+","")         ; asies-elphi314
+    ; ej2 := RegExReplace(cadena,"[\s-]","")       ; asieselphi314
+    ; ej3 := RegExReplace(cadena,"\s(\w)","$U1")   ; asiEs-elPhi314
+    ; ej4 := RegExReplace(cadena,"\b(\w)","$U1")   ; Asi Es-El Phi 314
+    ; MsgBox(ej4)
+}

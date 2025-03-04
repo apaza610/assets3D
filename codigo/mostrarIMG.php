@@ -10,7 +10,7 @@
         if($_SERVER["REQUEST_METHOD"] == "POST"){
             if(isset($_POST['categoria'])){
                 $eleccion = $_POST['categoria'];
-                echo "estas en la categoria: " . htmlspecialchars($eleccion) . "<br>";
+                echo "<h2>..." . htmlspecialchars($eleccion) . ":</h2>";
             }else{
                 echo "no color selected";
             }
@@ -47,7 +47,17 @@
             foreach ($listaDeFotos as $unafoto){
                 $leyenda = explode("_", $unafoto)[3];
                 $leyenda = explode(".", $leyenda)[0];
-                echo '<ruby><img src="' . $unafoto . '"><rt>' . $leyenda . '</rt></ruby>';
+                //-----------------metadata--------------------
+                $size = getimagesize($unafoto, $info);
+                $iptc = isset($info["APP13"]) ? iptcparse($info["APP13"]) : false;
+                $mensaje = isset($iptc["2#120"]) ? $iptc["2#120"][0] : '~~~';
+                // if(isset($info['APP13'])){
+                //     $iptc = iptcparse($info['APP13']);
+                //     // var_dump($iptc);
+                //     $mensaje = $iptc["2#120"][0];
+                // }
+                echo '<ruby><img src="' . $unafoto . '" title="' . $mensaje . '"><rt>' . $leyenda . '</rt></ruby>';
+               
             }
         }
 
