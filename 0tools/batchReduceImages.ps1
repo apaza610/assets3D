@@ -2,8 +2,8 @@
 #           de 512x512 preservando AspectRatio, osea que el lado mas 
 #           grande sera 512 ya sea de alto o de ancho
 # 
-$raizDir = "E:\assets3D\main\Animal_DazHorse3\Content\"
-# $raizDir =  "E:\assets3D\main\aaa\"
+# $raizDir = "E:\assets3D\main\toonG9F_SkinnyGirl\Content\"
+$raizDir =  "D:\borrador1\Content\"
 # $dimenMax = "400x400>"
 $dimenMax = "1024x1024>"
 
