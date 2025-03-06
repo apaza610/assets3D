@@ -143,21 +143,27 @@ F16:: {                    ; es el boton -
     }
 }
 
-; quitar espacios en blanco y guiones de nombres de files
+; quitar espacios en blanco y guiones de nombres de files o folders
 F20::ArreglarPath()
 
 ArreglarPath() {
     oldPath := StrReplace(A_Clipboard, '"',)         ; evitar comillas dobles
-    if oldPath {
+    if FileExist(oldPath) {
         SplitPath(oldPath, &nombre, &folder, &extension, &nombreSinExt, &disco)
+        
         nombreFix := RegExReplace(nombreSinExt, "\b(\w)", "$U1")  ; capitalizar each word
         nombreFix := RegExReplace(nombreFix,"[\s-_]",)       ; quitar espacios y rayas
 
         newPath := RegExReplace(oldPath,nombreSinExt,nombreFix)
-        FileMove(oldPath, newPath)
+
+        if InStr(FileExist(oldPath), "A"){                  ; si es un archive
+            FileMove(oldPath, newPath)
+        }else if InStr(FileExist(oldPath), "D"){            ; si es un directory
+            DirMove(oldPath, newPath)
+        }
     }
     else {
-        MsgBox("previamente capture path con: Ctrl Shift C")
+        MsgBox("previamente capturar path con: Ctrl+C")
     }
 
     ; cadena := "asi es-el phi 314"
