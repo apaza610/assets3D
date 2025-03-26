@@ -15,6 +15,10 @@
                 echo "no color selected";
             }
         }
+        else{
+            echo "no post";
+            header("Location: ../");            // retornar a main page
+        }
 
         $dazAssetsLocation = '../main';
         //******************escanear folder recursivamente************************/
