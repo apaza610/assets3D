@@ -140,6 +140,7 @@ F16:: {                    ; es el boton -
     ArreglarElZIP(*) {
         PathZIP := EditPath.Text
         Run(Format('PowerShell.exe -NoProfile -ExecutionPolicy Bypass -File {1} {2}', ElScript, PathZIP))
+        MiGui.Destroy()                                 ;cerrar app al terminar task
     }
 }
 
