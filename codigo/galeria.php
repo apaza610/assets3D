@@ -18,14 +18,8 @@ foreach ($files as $file) {
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Image Gallery</title>
-  <style>
-    img {
-      max-width: 200px;
-      margin: 10px;
-      border: 1px solid #ccc;
-    }
-  </style>
+    <link rel="stylesheet" href="../codigo/estilo.css">
+    <title>Image Gallery</title>
 </head>
 <body>
   <h2>Images in "<?= htmlspecialchars($folder) ?>"</h2>
