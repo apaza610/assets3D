@@ -68,5 +68,22 @@
         echo "<hr>";
         mostrarFotos($fotosDeseadas);
     ?>
+    ------------------------------------
+
+    <script>
+        function mostrarGaleria(evento) {
+            let imgSrc = evento.target.getAttribute("src");                 // ../main\videogame_Fallout\props_G8_falloutWeapons.jpg
+            let imgDir = imgSrc.substring(0, imgSrc.lastIndexOf("\\")+1);   // ../main\videogame_Fallout\
+            window.open("galeria.php?img=" + imgDir);
+        }
+
+        // Assign onclick to all <img> elements
+        window.onload = function() {
+            let images = document.querySelectorAll("img");
+            images.forEach(img => {
+                img.onclick = mostrarGaleria;
+            });
+        };
+    </script>
 </body>
 </html>
