@@ -28,7 +28,7 @@
 
             foreach ($iterador as $fileInfo){
                 if ($fileInfo->isFile()){
-                    if (preg_match('/\.jpg$/i', $fileInfo->getPathname())){
+                    if (preg_match('/^(character_|creature_|clothes_|hair_|poses_|skydome_|props_|environments_|vehicles_|materials_|tools_).+\.jpg$/i', $fileInfo->getFilename())) {
                         $fotos[] = $fileInfo->getPathname();
                     }
                 }
