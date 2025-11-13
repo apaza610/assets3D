@@ -7,8 +7,25 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="codigo/mostrarIMG.php" method="post">
-        <p>selecciona una categoria:</p>
+    <form action="codigo/actualizarDBs.php" method="post">
+        <p>Actualizar DataBase para categoria:</p>
+        <input type="radio" name="categoria" value="character" id="character" checked>   <label>Characters</label>
+        <input type="radio" name="categoria" value="creature"  id="creature">            <label>Creatures</label>
+        <input type="radio" name="categoria" value="clothes"    id="clothes">              <label>Clothes</label>
+        <input type="radio" name="categoria" value="hair"       id="hair">                 <label>Hair</label>
+        <input type="radio" name="categoria" value="poses"      id="poses">                <label>Poses</label>
+        <input type="radio" name="categoria" value="props"      id="props">                <label>Props</label>
+        <input type="radio" name="categoria" value="environments" id="environments">        <label>Environments</label>
+        <input type="radio" name="categoria" value="vehicles"   id="vehicles">             <label>Vehicles</label>
+        <input type="radio" name="categoria" value="materials"  id="materials">            <label>Materials</label>
+        <input type="radio" name="categoria" value="tools"      id="tools">                <label>Tools</label>
+        <input type="radio" name="categoria" value="skydome"    id="skydome">               <label>SkydomeHDRi</label>
+        <br><br>
+        <input type="submit" value="Submit">
+    </form>
+    <hr>
+    <form action="codigo/mostrarIMGs.php" method="post">
+        <p>Mostrar IMGs de la categoria:</p>
         <input type="radio" name="categoria" value="character" id="character" checked>   <label>Characters</label>
         <input type="radio" name="categoria" value="creature"  id="creature">            <label>Creatures</label>
         <input type="radio" name="categoria" value="clothes"    id="clothes">              <label>Clothes</label>

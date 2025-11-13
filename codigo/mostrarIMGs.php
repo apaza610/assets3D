@@ -22,33 +22,39 @@
 
         $dazAssetsLocation = '../main';
         //******************escanear folder recursivamente************************/
-        function listarJPGsConSPL($ubicacion){
-            $fotos = [];
-            $iterador = new RecursiveIteratorIterator(new RecursiveDirectoryIterator($ubicacion));
+        // function listarJPGsConSPL($ubicacion){
+        //     $fotos = [];
+        //     $iterador = new RecursiveIteratorIterator(new RecursiveDirectoryIterator($ubicacion));
 
-            foreach ($iterador as $fileInfo){
-                if ($fileInfo->isFile()){
-                    if (preg_match('/^(character_|creature_|clothes_|hair_|poses_|skydome_|props_|environments_|vehicles_|materials_|tools_).+\.jpg$/i', $fileInfo->getFilename())) {
-                        $fotos[] = $fileInfo->getPathname();
-                    }
-                }
-            }
-            return $fotos;
-        }
-        $todasLasFotos = listarJPGsConSPL($dazAssetsLocation);
+        //     foreach ($iterador as $fileInfo){
+        //         if ($fileInfo->isFile()){
+        //             if (preg_match('/^(character_|creature_|clothes_|hair_|poses_|skydome_|props_|environments_|vehicles_|materials_|tools_).+\.jpg$/i', $fileInfo->getFilename())) {
+        //                 $fotos[] = $fileInfo->getPathname();
+        //             }
+        //         }
+        //     }
+        //     return $fotos;
+        // }
+        // $todasLasFotos = listarJPGsConSPL($dazAssetsLocation);
         // echo nl2br(print_r($todasLasFotos, true));
 
-        $fotosDeseadas= [];
-        foreach ($todasLasFotos as $unafoto){
-            if (strpos($unafoto, $eleccion) !== false){
-                $fotosDeseadas[] = $unafoto;
-            }
-        }
+        // $fotosDeseadas= [];
+        // foreach ($todasLasFotos as $unafoto){
+        //     if (strpos($unafoto, $eleccion) !== false){
+        //         $fotosDeseadas[] = $unafoto;
+        //     }
+        // }
         // echo nl2br(print_r($fotosDeseadas, true));
+        
+        // Guardar la lista en .txt
+        // $textoPlano = implode(PHP_EOL, $fotosDeseadas);
+        // file_put_contents("DB".$_POST['categoria'].".txt", $textoPlano);
+
 
         //***********************mostrar las fotos***************************/
-        function mostrarFotos($listaDeFotos){
-            foreach ($listaDeFotos as $unafoto){
+        function mostrarFotos(){
+            $lineas = file("DB".$_POST['categoria'].".txt", FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
+            foreach ($lineas as $unafoto){
                 $leyenda = explode("_", $unafoto)[3];
                 $leyenda = explode(".", $leyenda)[0];
                 //-----------------metadata--------------------
@@ -66,7 +72,7 @@
         }
 
         echo "<hr>";
-        mostrarFotos($fotosDeseadas);
+        mostrarFotos();
     ?>
     ------------------------------------
 
