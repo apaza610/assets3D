@@ -5,7 +5,6 @@
 ../main\anime_environments\XIAnimeClassroom\environments_G9_XIAnimeClassroom.jpg
 ../main\anime_environments\XIAnimeCondominium\environments_G9_XIAnimeCondominium.jpg
 ../main\anime_environments\XIAnimeConvenienceStore\environments_G9_XIAnimeConvenienceStore.jpg
-../main\anime_environments\XIAnimeMotorcycle\vehicles_G9_XIAnimeMotorcycle.jpg
 ../main\anime_scenes\DivaIceThrone\environments_G9_DivaIceThrone.jpg
 ../main\anime_scenes\FilatoonSkies\environments_G9_FilatoonSkies.jpg
 ../main\anime_scenes\TerasBedroom\environments_G9_TerasBedroom.jpg

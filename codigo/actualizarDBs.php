@@ -8,12 +8,7 @@
 <body>
     <?php
         if($_SERVER["REQUEST_METHOD"] == "POST"){
-            if(isset($_POST['categoria'])){
-                $eleccion = $_POST['categoria'];
-                echo "<h2>...Se ha actualizando: " . htmlspecialchars($eleccion) . ":</h2>";
-            }else{
-                echo "no color selected";
-            }
+            echo "<h2>...Se ha actualizando DataBases</h2>";
         }
         else{
             echo "no post";
@@ -21,6 +16,7 @@
         }
 
         $dazAssetsLocation = '../main';
+        $todasLasFotos = [];
         //******************escanear folder recursivamente************************/
         function listarJPGsConSPL($ubicacion){
             $fotos = [];
@@ -35,20 +31,31 @@
             }
             return $fotos;
         }
-        $todasLasFotos = listarJPGsConSPL($dazAssetsLocation);
+        $todasLasFotos = listarJPGsConSPL($dazAssetsLocation);  // contiene la totalidad de fotos de todas las categorias
         // echo nl2br(print_r($todasLasFotos, true));
 
-        $fotosDeseadas= [];
-        foreach ($todasLasFotos as $unafoto){
-            if (strpos($unafoto, $eleccion) !== false){
-                $fotosDeseadas[] = $unafoto;
+        creaOactualizaDB("character", $todasLasFotos);
+        creaOactualizaDB("creature", $todasLasFotos);
+        creaOactualizaDB("clothes", $todasLasFotos);
+        creaOactualizaDB("hair", $todasLasFotos);
+        creaOactualizaDB("poses", $todasLasFotos);
+        creaOactualizaDB("skydome", $todasLasFotos);
+        creaOactualizaDB("props", $todasLasFotos);
+        creaOactualizaDB("environments", $todasLasFotos);
+        creaOactualizaDB("vehicles", $todasLasFotos);
+        creaOactualizaDB("materials", $todasLasFotos);
+        creaOactualizaDB("tools", $todasLasFotos);
+
+        function creaOactualizaDB($tipo, array $todasLasFotos){
+            $fotos = [];
+            foreach ($todasLasFotos as $unafoto){
+                if (strpos($unafoto, $tipo."_") !== false){
+                    $fotos[] = $unafoto;
+                }
             }
+            $textoPlano = implode(PHP_EOL, $fotos);
+            file_put_contents("DB".$tipo.".txt", $textoPlano);
         }
-        // echo nl2br(print_r($fotosDeseadas, true));
-        
-        // Guardar la lista en .txt
-        $textoPlano = implode(PHP_EOL, $fotosDeseadas);
-        file_put_contents("DB".$_POST['categoria'].".txt", $textoPlano);
 
 
         //***********************mostrar las fotos***************************/

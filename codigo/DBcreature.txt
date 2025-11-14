@@ -52,7 +52,6 @@
 ../main\criatura_fantasia\StorybookFrogHDG81Ms\creature_G8M_StorybookFrogG8M.jpg
 ../main\criatura_GiantSpider\GiantMonsterSpiderHD\creature_G8_giantMonsterSpider.jpg
 ../main\criatura_midnightSkeleton\dForceAngelofDeathforMidnightSkeleton\creature_G8M_MidnightSkeleton8.jpg
-../main\criatura_MonsterMashupG9\CreatureNailsAddOnG9\tools_G9_creatureNailsAddonG9.jpg
 ../main\criatura_MonsterMashupG9\creature_G9_alien.jpg
 ../main\criatura_MonsterMashupG9\creature_G9_GoblinG9.jpg
 ../main\criatura_MonsterMashupG9\MonsterMashupExoAlienG9\creature_G9_MonsterMashupG9ProBundle.jpg
