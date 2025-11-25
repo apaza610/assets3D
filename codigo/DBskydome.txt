@@ -1,5 +1,8 @@
+../main\charF_Tara8\iluminacion\skydome_G8_IrayHdriReshade.jpg
+../main\charF_Tara8\iluminacion\skydome_G8_MonochromeEditionLights.jpg
 ../main\charM_Underbelly\MonochromeIray\skydome_G8_MonochromeIray.jpg
 ../main\charM_Underbelly\SubwayNoir\skydome_G8_SubwayNoir.jpg
+../main\clothing_FromPast\Egyptian MEGA\Aurous Iray Lights\skydome_G3_AurousIrayLights.jpg
 ../main\HDRi_cyberpunk\Fvtvris HDRI\skydome_G8_FvtvrisHDRI.jpg
 ../main\HDRi_cyberpunk\IG Iray Dawn to Dusk\skydome_G8_IGIrayDawnToDusk.jpg
 ../main\HDRi_cyberpunk\PTF Sci-Fi HDRI Lighting\skydome_G8_PTFSciFiHDRILighting.jpg

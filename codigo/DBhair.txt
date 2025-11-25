@@ -1,4 +1,4 @@
-../main\animal_DazHorse3\dForceHorseHairfortheDazHorse3\hair_G8_DazHorse3Hair.jpg
+../main\animal_Equinos\animal_DazHorse3\dForceHorseHairfortheDazHorse3\hair_G8_DazHorse3Hair.jpg
 ../main\anime_figures\figuresHair\hair_G9F_CartoonAdultF2Hair.jpg
 ../main\anime_figures\figuresHair\hair_G9F_MBAvaniHairG9Toon.jpg
 ../main\anime_Mikey9\Mikey9Hair\hair_G9M_KashFilaToonHairG9.jpg
@@ -12,9 +12,12 @@
 ../main\anime_pelo\ToonStyleMultiStylePonytailHairG9\hair_G9F_PetrasToonTwinTailsG9.jpg
 ../main\anime_Vicky9\Vicky9Hair\hair_G9F_AdabellaHairG9Toons.jpg
 ../main\anime_Vicky9\Vicky9Hair\hair_G9F_HSToonBobHairG9Anime.jpg
+../main\chaarF_Noska8\peinados\hair_G8F_Luoqu.jpg
+../main\chaarF_Noska8\peinados\hair_G8F_Neona.jpg
 ../main\charF_Aiko8\LowPigtailHairG3and8Fs\hair_G8F_aiko8PigtailG3G8.jpg
 ../main\charF_Amelia9\Amelia9Hair\hair_G9F_alissehairG9.jpg
 ../main\charF_Amelia9\Amelia9Hair\hair_G9F_frizhairG8G9.jpg
+../main\charF_Angela9\HollywoodHair\hair_G9F_HollywoodHair.jpg
 ../main\charF_Arabella7\Arabella7Hair\hair_G3F_Arabella7selenaHair.jpg
 ../main\charF_Arabella7\hair_G3F_Arabella7coleraine.jpg
 ../main\charF_Asha9\DForceMessyFrenchBraidG9\hair_G9F_dForceMessyFrenchBraid.jpg
@@ -34,6 +37,8 @@
 ../main\charF_Cecelia9\CeceliaUpdoG9\hair_G9F_CeceliaUpdoG9.jpg
 ../main\charF_Cecelia9\dForceCupcakeHairG9\hair_G9F_CupcakeHairG9.jpg
 ../main\charF_Cheyenne9\CheyenneBraidsG9\hair_G9F_CheyenneBraidsG9.jpg
+../main\charF_Chloe\peinados\hair_G9F_HSEverydayHighUpdo.jpg
+../main\charF_Crow81\dForce Flightful Hair\hair_G8F_dForceFlightfulHair.jpg
 ../main\charF_Death9\SelenaMediumHairG9\hair_G9F_SelenaMediumHairG9.jpg
 ../main\charF_DragonGirl8\PingHairG8andG3Fs\hair_G8F_FanLing8pingHairG3G8.jpg
 ../main\charF_Edie8\Edie8Hair\hair_G8F_Edie8fantasyWoodland.jpg
@@ -44,15 +49,27 @@
 ../main\charF_Ipanema9\hair_G9F_IpanemaFlowerHair.jpg
 ../main\charF_Ivory9\dForcePrincessPetrasGracefulBun\hair_G9F_PrincessPetrasGracefulBun.jpg
 ../main\charF_Ivory9\dForcePrincessPetrasTwinTails\hair_G9F_PrincessPetrasTwinTailsG9.jpg
+../main\charF_Jada8\peinados\hair_G8F_AfroHair.jpg
+../main\charF_Jada8\peinados\hair_G8F_StackPermHair.jpg
 ../main\charF_Jennie9\Jennie9Hair\hair_G9F_HSHarukoDualLengthHairG9yG8.jpg
 ../main\charF_Jennie9\Jennie9Hair\hair_G9F_TweenPonytailsG9.jpg
 ../main\charF_Joan9\Joan9Hair\hair_G9F_ArdamirHair.jpg
 ../main\charF_Joan9\Joan9Hair\hair_G9F_dForceJoanie.jpg
+../main\charF_Josie9\peinados\hair_G9F_ChanelleDreamHair.jpg
+../main\charF_Josie9\peinados\hair_G9F_ChanelleSweetHair.jpg
+../main\charF_Kai9\hair_G9F_dForceHollieLong.jpg
 ../main\charF_Kala8\NesenaHairG38Fs\hair_G8F_NesenaHairG3G8.jpg
 ../main\charF_Kala9\LowLooseUpdoHairG9\hair_G9F_LowLooseUpdoHairG9.jpg
 ../main\charF_Kara9\dForceKaraPonytailG9\hair_G9F_KaraPonytailG9.jpg
 ../main\charF_Karen7\Karen7Hair\hair_G3F_Force.jpg
 ../main\charF_Karen7\Karen7Hair\hair_G3F_Kara.jpg
+../main\charF_Kayla9\peinados\hair_G9F_dForceGaelleCandyCurls.jpg
+../main\charF_Kayla9\peinados\hair_G9F_DiamondSpineBraid.jpg
+../main\charF_Kiki9\peinados\hair_G9F_CandyTwists.jpg
+../main\charF_Kiki9\peinados\hair_G9F_CandyTwistsHairExpansion.jpg
+../main\charF_KinPrisma\peinados\hair_G9F_Kin.jpg
+../main\charF_KinPrisma\peinados\hair_G9_Ashendun.jpg
+../main\charF_Lauryn9\HelenaLong\hair_G9_dForceHSHelenaLongHairG9.jpg
 ../main\charF_Lianna9\Lianna9Hair\hair_G9F_SilvannahHairG9.jpg
 ../main\charF_Lianna9\Lianna9Hair\hair_G9F_SkulyannaHairG9.jpg
 ../main\charF_Lyna9\DarkWebDiveOutfitG9\hair_G9F_DarkWebDive.jpg
@@ -60,6 +77,8 @@
 ../main\charF_Mabel8\Mabel8Hair\hair_G8F_CurlMeHairG3G8.jpg
 ../main\charF_Mabel8\Mabel8Hair\hair_G8F_elegantbun.jpg
 ../main\charF_Madison9\peinados\hair_G9F_dForceLenaFestivalCurlsAndBraid.jpg
+../main\charF_Maryam9\peinados\hair_G9F_dForceMyra.jpg
+../main\charF_Maryam9\peinados\hair_G9F_HSKellyMessyCurves.jpg
 ../main\charF_Meilin6\MegumiHair\hair_G2F_MegumiHair.jpg
 ../main\charF_Meilin6b\Meilin6bHair\hair_G2F_ChokoHairG2.jpg
 ../main\charF_Meilin6b\Meilin6bHair\hair_G2F_KitaHairG2.jpg
@@ -75,6 +94,8 @@
 ../main\charF_Mira9\Mira9Hair\hair_G9F_XYZnaturalCurlyG9.jpg
 ../main\charF_MrsChow8\MrsChow8Hair\hair_G8F_MrsChow8liling.jpg
 ../main\charF_MrsChow8\MrsChow8Hair\hair_G8F_MrsChow8lucinda.jpg
+../main\charF_Nenas\MB Fancie\hair_G9F_MBFancie.jpg
+../main\charF_Nenas\MB Mimiko G9\hair_G9F_MBMimiko.jpg
 ../main\charF_Niketa9\GraelorHairG9\hair_G9F_GraelorG9.jpg
 ../main\charF_Niketa9\XYZLowPonytailDreadlocksG9And8\hair_G9_XYZlowPonytailDreadlocksG9yG8.jpg
 ../main\charF_Noki\NokiLotusfallHairG9\hair_G9F_NokiLotusfall.jpg
@@ -97,6 +118,7 @@
 ../main\charF_Sylvia9\WoodenElfHairG9\hair_G9F_WoodenElf.jpg
 ../main\charF_Tabitha9\DForceHSUrsulaPonytailG9\hair_G9F_HSUrsulaPonytailG9.jpg
 ../main\charF_Tabitha9\HSBlissfulBreezeHairG9And8F\hair_G9F_HSBlissfulBreezeG8yG9.jpg
+../main\charF_Tara8\peinados\hair_G8F_DforceTara.jpg
 ../main\charF_Tara9\Tara9Hair\hair_G9F_BelethLongHairG8G9.jpg
 ../main\charF_Tara9\Tara9Hair\hair_G9F_LilithraStormHairG8G9.jpg
 ../main\charF_TeenJosie8\TeenJosie8Hair\hair_G8F_Happenstance.jpg
@@ -109,6 +131,10 @@
 ../main\charF_VanHelsing9\VanHelsing9Hair\hair_G9F_VanHelsing9FraizHair.jpg
 ../main\charF_Victoria4\1StarterBundle\hair_V4_AmarsedaHair.jpg
 ../main\charF_Victoria4\2ProBundleAddons\hair_V4_ShigiHair.jpg
+../main\charF_Victoria6\peinados\hair_G2F_CharmHair.jpg
+../main\charF_Victoria6\peinados\hair_G2F_FashionHair.jpg
+../main\charF_Victoria6\peinados\hair_G2F_NordicHair.jpg
+../main\charF_Victoria6\peinados\hair_G2F_UdaneHair.jpg
 ../main\charF_Victoria7\Victoria7Hair\hair_G3F_Krayon.jpg
 ../main\charF_Victoria7\Victoria7Hair\hair_G3F_Leyton.jpg
 ../main\charF_Victoria9\Victoria9Hair\hair_G9F_curlyTopUpdoG9b.jpg
@@ -129,6 +155,9 @@
 ../main\charM_Charlie9\50sClassicCut\hair_G9M_50sClassic.jpg
 ../main\charM_Charlie9\DforceFreddyHairG9\hair_G9M_dforceFreddyHair.jpg
 ../main\charM_Christian8\BikerHairandBeardG3and8Ms\hair_G8M_BikerHairAndBeard.jpg
+../main\charM_Dain8\peinados\hair_G8M_LongMane.jpg
+../main\charM_Dain8\peinados\hair_G8M_MilitaryCutStyle.jpg
+../main\charM_Dain8\peinados\hair_G8M_SamuraiStyle.jpg
 ../main\charM_Dain9\Dain9Hair\hair_G9M_ChetHairG9.jpg
 ../main\charM_Dain9\Dain9Hair\hair_G9M_HSGentleStreamG9yG8.jpg
 ../main\charM_Dante7\Dante7Hair\hair_G3M_JonathanHairG3M.jpg
@@ -149,11 +178,14 @@
 ../main\charM_Ivar9Viking\GarciadForceLongPonyTailSetG8and81MsandG9\hair_G9M_LongPonytailG8yG9.jpg
 ../main\charM_Ivar9Viking\Ivar9Beard\hair_G9M_Ivar9Beard.jpg
 ../main\charM_Ivar9Viking\VikingFiberHairSetforIvar9andG9\hair_G9M_VikingFiberHairG9.jpg
+../main\charM_Jazz8\peinados\hair_G8M_YoanMatureHairAndBeard.jpg
 ../main\charM_Jonathan8\Jonathan8Hair\hair_G8M_CorporateHairG8.jpg
 ../main\charM_Jonathan8\Jonathan8Hair\hair_G8M_SecretServiceHairG8G3.jpg
 ../main\charM_JuanCarlos8\dForceCyberDeckerOutfitG8Ms\hair_G8_dForceElectroHairG3G8.jpg
 ../main\charM_Kento8\RudolfBeardG8and81Ms\hair_G8M_RudolfBeard.jpg
 ../main\charM_Kjaer8\dForceThorinHairG8Ms\hair_G8M_dforceThorinHairG8.jpg
+../main\charM_Kota8\peinados\hair_G8M_KotaHair.jpg
+../main\charM_Kota8\peinados\hair_G8_dForceChaoticHair.jpg
 ../main\charM_Lahr9\BaseClothingFurandMorphsUpdate\hair_G9M_Lahr9fur.jpg
 ../main\charM_Lahr9\LeoDreadsHairG9\hair_G9M_Lahr9dreads.jpg
 ../main\charM_Lawrence9\Lawrence9Hair\hair_G9M_FadedAfroHairandBeardG9.jpg
@@ -206,22 +238,32 @@
 ../main\charM_Walter9\Walter9Hair\hair_G9M_NathanielHairG9.jpg
 ../main\charM_Walter9\Walter9Hair\hair_G9M_OldGeorgeHairG9.jpg
 ../main\charM_Wang9\TwoBlockSidePartHairG9\hair_G9M_Wang9TwoBlockSidePart.jpg
+../main\charM_Wolfgang8\peinados\hair_G8M_dForceBeachcomber.jpg
+../main\charM_Wolfgang8\peinados\hair_G8M_GraigToughGuy.jpg
+../main\charM_Xola9\peinados\hair_G9F_JoyHair.jpg
+../main\charM_Xola9\peinados\hair_G9M_HSKevinHairBeard.jpg
 ../main\char_Baby8\SmallWorldBabyLocksHairG3and8\hair_G8_BabyLocksHairG3yG8.jpg
 ../main\char_Presidencial\peinados\hair_G9M_OldJoey.jpg
 ../main\char_Presidencial\peinados\hair_G9M_SolidGold.jpg
+../main\char_Streamer\Egirl Hair G9\hair_G9F_EgirlHairG9.jpg
+../main\clothing_FromPast\Egyptian MEGA\Taia Hair\hair_G3F_TaiaHair.jpg
+../main\clothing_FromPast\medieval\Fantasy Queen\hair_G8F_FantasyQueen.jpg
+../main\clothing_FromPast\wild west\CowgirlBraidsAccessories\hair_G9F_CowgirlBraids.jpg
 ../main\clothing_Princess\dForcePrincessSeriesCrownBraidG9\hair_G9F_dForceCrownBraid.jpg
 ../main\clothing_Princess\dForcePrincessSeriesCyberpunkPonytail\hair_G9F_dForcePrincessCyberpunkPonytail.jpg
 ../main\clothing_Princess\Princess Series Twin Buns\hair_G9F_PrincessSeriesTwinBuns.jpg
 ../main\clothing_sexy\Kitty Cat Night Bundle for Genesis 9\hair_G9F_KittyCatNightLong.jpg
 ../main\clothing_Sports\FinalRound\hair_G9_RowlineCornrow.jpg
-../main\clothing_wildwest\CowgirlBraidsandAccessoriesG9Feminine\hair_G9F_CowgirlBraids.jpg
+../main\clothing_Sports\SHOOT 30 Sexy Soccer MEGA\Sporty Pigtails Hair and OOT Hairblending\hair_G2F_SportyPigtails.jpg
+../main\clothing_Sports\SHOOT 30 Sexy Soccer MEGA\Vibrant Sporty Pigtails\hair_G2F_VibrantSportyPigtails.jpg
 ../main\criatura_MonsterMashupG9\M3DZombieHairG9\hair_G9_zombieHair.jpg
 ../main\env_FromFuture\Cyberpunk City Bundle\hair_G8F_HairLalaG8F.jpg
+../main\env_FromPast\Cleopatras Royal Vizier\peinados\hair_G8F_dForceMaureenHair.jpg
 ../main\env_ReturnToTreasureIsland\VoltaHairAndBeardG8\hair_G8M_VoltaHairAndBeardG8.jpg
 ../main\env_Sports\SportFitness\TylerCurlyHairandBrowsG9\hair_G9M_CurlyHairAndBrows.jpg
 ../main\env_Sports\SportGetInTheRing\MisfitzHairG8MsKwan8\hair_G8M_misfitz.jpg
 ../main\env_SteampunkSherlock\Bastien Curly Hair and Beard for G8 M\hair_G8M_BastienCurlyHairBeard.jpg
-../main\env_summerheat\dForceMessyGlamBeachHairG9\hair_G9F_MessyGlamBeachHairG9.jpg
+../main\env_Summerheat\dForceMessyGlamBeachHairG9\hair_G9F_MessyGlamBeachHairG9.jpg
 ../main\G3_loveableNerds\NerdyGirlOutfitG3Fs\hair_G3F_NerdyGirlHairG3F.jpg
 ../main\G3_loveableNerds\NerdyGuyOutfitG3Ms\hair_G3M_NerdyGuyHairG3.jpg
 ../main\G8_DanceOfTheSugarPlumFairies\hair_G8F_Clara8xueHair.jpg
@@ -233,6 +275,8 @@
 ../main\history_Neanderthal9\Neanderthal9Hair\hair_G9_DwarfBraidedHairandBeardG9.jpg
 ../main\history_Neanderthal9\Neanderthal9Hair\hair_G9_StoneAgeStrandsHairBeardG9.jpg
 ../main\history_Twosret8\Twosret8Hair\hair_G8F_Twosret8DesertQueen.jpg
+../main\mit_Assassin8\Zenty Cool Hairstyle\hair_G8M_ZentyCoolAndScruffyBeard.jpg
+../main\mit_Barbarian\HSWhisperingWavesHair\hair_G9_HSWhisperingWavesHair.jpg
 ../main\mit_Centaur7\Centaur7Hair\hair_G3M_AdrianHairAndBeardG3M.jpg
 ../main\mit_Centaur7\Centaur7Hair\hair_G3M_DeclanHairG3M.jpg
 ../main\mit_Centaur8\Centaur8Hair\hair_G8F_Centaur8RoxanaHair.jpg
@@ -247,6 +291,9 @@
 ../main\mit_sirenidosCoral8\Coral81\hair_G8F_LuhairCoral8.jpg
 ../main\mit_sirenidosCoral8\sirenidosCoral8Hair\hair_G8F_KentHairCoral8.jpg
 ../main\mit_sirenidosZale8\CornRowHairSetG81andG8Ms\hair_G8M_CornRowHairG8.jpg
+../main\mit_TorianElven\peinados\hair_G8M_ScruffyHairSetG8.jpg
+../main\mit_TorianElven\peinados\hair_G8M_Tico BunHairG8.jpg
+../main\mit_TorianElven\peinados\hair_G8_AshendunHairG8.jpg
 ../main\mit_Wizard8\WiseWizardHDCharacterG8M\hair_G8M_WiseWizard8beard.jpg
 ../main\movie_Caldwell9AndTheAliens\Caldwell9AndTheAliensHair\hair_G9F_SpaceWarriorHairG9.jpg
 ../main\movie_Caldwell9AndTheAliens\Caldwell9AndTheAliensHair\hair_G9M_AmyrTightCurlsHairBeardG8yG9.jpg
@@ -276,10 +323,10 @@
 ../main\pelo_variosF\PSKeiHair\hair_G8F_PSKeiHairG8G9.jpg
 ../main\pelo_variosF\QiunrHair\hair_G8F_QiunrHairG8.jpg
 ../main\pelo_variosF\SUEverydayLongHair\hair_G8F_SUEverydayLongHairG8G9.jpg
+../main\pelo_variosF\XYZ Half Hair G9\hair_G9F_XYZHalfHair.jpg
 ../main\pelo_variosM\AKBeefcake\hair_G9M_BeefcakeHairG9.jpg
 ../main\pelo_variosM\AKFierce\hair_G9M_FierceHairG9.jpg
 ../main\pelo_variosM\AlchemistHairBeard\hair_G3M_AlchemistHairBeardG3.jpg
-../main\pelo_variosM\HelenaLong\hair_G9_dForceHSHelenaLongHairG9.jpg
 ../main\pelo_variosM\HSEthanBold\hair_G9M_EthanBoldHairG9G8.jpg
 ../main\pelo_variosM\KarlosFlipped\hair_G9M_KarlosFlippedHairG9.jpg
 ../main\toonG8F_TheGirl8\TheGirl8Hair\hair_G8F_TheGirl8lanaG3yG8.jpg

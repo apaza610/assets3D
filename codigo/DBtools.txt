@@ -25,10 +25,12 @@
 ../main\criatura_MonsterMashupG9\CGIPupilUtilitiesG9\tools_G9_CGIpupilUtilities.jpg
 ../main\criatura_MonsterMashupG9\CreatureNailsAddOnG9\tools_G9_creatureNailsAddonG9.jpg
 ../main\criatura_TreeGiant\KAForestFX\tools_G8_KaforestFX.jpg
-../main\env_Space\env_SciFiSpaceKit\tools_G9_IraySciFiVFXKit.jpg
-../main\env_Space\env_SciFiSpaceKit\tools_G9_ScienceFictionHeadShapesG9.jpg
+../main\env_SciFi\env_SciFiSpaceKit\tools_G9_IraySciFiVFXKit.jpg
+../main\env_SciFi\env_SciFiSpaceKit\tools_G9_ScienceFictionHeadShapesG9.jpg
+../main\env_Sumo\Sumo Character Morph G8M\tools_G8M_SumoCharacterMorph.jpg
 ../main\mit_DazDragon3\DragonTrainersToolbox\tools_G3_Dragon3ToolboxBabyToAdult.jpg
 ../main\mit_Jesus9\John9\tools_G9M_John9SkinnyMuscularEmaciated2.jpg
+../main\propAsset_cuerpo\Lickalicious G8\tools_G8_LickaliciousG8.jpg
 ../main\tools_cables\Cable script to generate cables and wires\tools_G8_CablesWiresScript.jpg
 ../main\tools_cables\FlexPipes\tools_G9_FlexPipes.jpg
 ../main\tools_Clothing\HatAndHairHelperG3\tools_G3_HatAndHairHelperG3.jpg
@@ -48,8 +50,12 @@
 ../main\tools_FilaToonEasy\V3DFilaToonConverterManagerAndTools\tools_G9_V3DfilaToonConverter.jpg
 ../main\tools_instances\UltraScatterPro\tools_G3_ultrascatterpro.jpg
 ../main\tools_MeshGrabber\Mesh grabber Rotation Addon (Win)\tools_G8_meshGrabberBundle.jpg
-../main\tools_MMorphs\G2MBodyMorphs\tools_G2M_MMorphsBodyG2.jpg
-../main\tools_MMorphs\G2MHeadMorphs\tools_G2M_MMorphsHeadG2.jpg
+../main\tools_Morphs\Amputee G8\tools_G8F_AmputeeG8F.jpg
+../main\tools_Morphs\G2F Morphs Bundle\tools_G2F_G2FMorphsBundle.jpg
+../main\tools_Morphs\G2MBodyMorphs\tools_G2M_MMorphsBodyG2.jpg
+../main\tools_Morphs\G2MHeadMorphs\tools_G2M_MMorphsHeadG2.jpg
+../main\tools_Morphs\Masculine Athletic Bodies G9\tools_G9M_MasculineAthleticBodiesG9.jpg
+../main\tools_Morphs\SY Hero Bodies G9\tools_G9_SYHeroBodiesG9.jpg
 ../main\tools_MorphsMaster\MorphMaster\tools_G8_morphMaster.jpg
 ../main\tools_NodePositionerAndGrabber\NodePositionerAndGrabber\tools_G2_nodePositionerGrabber.jpg
 ../main\tools_Phenotypes\PhenotypesG8\tools_G9_phenotypesMonstersG9.jpg
@@ -60,3 +66,4 @@
 ../main\tools_SceneToolsSet\tools_G8_SceneToolsSet2.jpg
 ../main\tools_SceneToolsSet\tools_G8_SceneToolsSet3Symmetry.jpg
 ../main\tools_UniversalHandsFeetControl\UniversalHandsAndFeetControl\tools_G9_UniversalHandsAndFeetControl.jpg
+../main\vehicles_land\JDM Legends Car\tools_G8_CarVFXKit.jpg

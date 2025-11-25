@@ -1,28 +1,51 @@
-../main\animal_AfricanElephant\AfricanElephantUpdated\creature_G3_AfricanElephant.jpg
-../main\animal_ApeWorld2\ApeWorld2ChimpHD\creature_G2_Chimp.jpg
-../main\animal_ApeWorld2\ApeWorld2GorillaHD\creature_G2_Gorilla.jpg
-../main\animal_ApeWorld2\ApeWorld2OrangutanHD\creature_G2_Orangutan.jpg
-../main\animal_ApeWorld2\DarwinTheToonChimp\creature_G2_DarwinTheToonChimp.jpg
 ../main\animal_Bears\BrownBearbyAM\creature_G2_BrownBear.jpg
-../main\animal_Cow\creature_G2_nogginsCattleBreedsLarge.jpg
-../main\animal_Cow\creature_G2_nogginSCowLarge.jpg
-../main\animal_DazBigCat2\DAZBigCat2\creature_G3_DazBigCat2.jpg
-../main\animal_DazDog8\BaxtertheEnglishBulldogforDog8\creature_G8_Dog8.jpg
-../main\animal_DazDog8\creature_G8_Dog8bulldog.jpg
-../main\animal_DazDog8\creature_G8_Dog8wolf.jpg
-../main\animal_DazDog8\GermanShepherdforDazDog8\creature_G8_Dog8germanShepherd.jpg
-../main\animal_DazHorse2\DAZHorse2ProContent\creature_G3_DazHorse2.jpg
-../main\animal_DazHorse3\DazHorse3\creature_G8_DazHorse3.jpg
-../main\animal_DazSheep\DAZSheep2\creature_G2_DazSheep2.jpg
+../main\animal_Camelidos\My Camel Camelia\creature_G8_MyCamelCamelia.jpg
+../main\animal_Dinosaurios\Alamosaurus\creature_G8_Alamosaurus.jpg
+../main\animal_Dinosaurios\HH Triceratops\creature_G8_HHTriceratops.jpg
 ../main\animal_EagleFalcon\creature_G3_DeepseasEagle.jpg
 ../main\animal_EagleFalcon\creature_G3_PeregrineFalconForDeepseasEagle.jpg
-../main\animal_Felidae\Lion\creature_G3M_Lion.jpg
-../main\animal_Felidae\Tiger\creature_G8_FelidaeTiger.jpg
-../main\animal_monkey\ChocostheMonkeyG9\creature_G9M_ChocosTheMonkeyG9.jpg
+../main\animal_Elephants\AfricanElephantUpdated\creature_G3_AfricanElephant.jpg
+../main\animal_Elephants\Mammoth 2 by AM\creature_G3_Mammoth2ByAM.jpg
+../main\animal_Equinos\animal_DazHorse2\DAZHorse2ProContent\creature_G3_DazHorse2.jpg
+../main\animal_Equinos\animal_DazHorse3\DazHorse3\creature_G8_DazHorse3.jpg
+../main\animal_Equinos\Daz Horse 3 Norse Add-On\creature_G8_DazHorse3NorseAddOn.jpg
+../main\animal_Equinos\Deer Daz Horse 3\creature_G8_DeerDazHorse3.jpg
+../main\animal_Equinos\DS Cadichon Daz Horse2\creature_G8_DSCadichonDazHorse2.jpg
+../main\animal_Equinos\Gnu Horse 2 by AM\creature_G3_GnuHorse2ByAM.jpg
+../main\animal_Equinos\ND Daemon Horse Daz Horse3\creature_G8_NDDaemonHorse.jpg
+../main\animal_Equinos\Sleigh Ride\creature_G8_ReindeerForDazHorse3.jpg
+../main\animal_gatos\animal_DazBigCat2\DAZBigCat2\creature_G3_DazBigCat2.jpg
+../main\animal_gatos\animal_Felidae\Lion\creature_G3M_Lion.jpg
+../main\animal_gatos\animal_Felidae\Tiger\creature_G8_FelidaeTiger.jpg
+../main\animal_gatos\Felidae by AM - Smilodon Populator\creature_G3_SmilodonPopulator.jpg
+../main\animal_gatos\Rakshasa with dForce Hair G8\creature_G8M_RakshasaWithDForceHairG8.jpg
+../main\animal_monos\animal_ApeWorld2\ApeWorld2ChimpHD\creature_G2_Chimp.jpg
+../main\animal_monos\animal_ApeWorld2\ApeWorld2GorillaHD\creature_G2_Gorilla.jpg
+../main\animal_monos\animal_ApeWorld2\ApeWorld2OrangutanHD\creature_G2_Orangutan.jpg
+../main\animal_monos\animal_ApeWorld2\DarwinTheToonChimp\creature_G2_DarwinTheToonChimp.jpg
+../main\animal_monos\animal_monkey\ChocostheMonkeyG9\creature_G9M_ChocosTheMonkeyG9.jpg
 ../main\animal_mouseAM\MousebyAM\creature_G8_mouseAM.jpg
+../main\animal_Perros\BaxtertheEnglishBulldogforDog8\creature_G8_Dog8.jpg
+../main\animal_Perros\creature_G8_Dog8bulldog.jpg
+../main\animal_Perros\creature_G8_Dog8wolf.jpg
+../main\animal_Perros\Ethereal Celestial Forest\creature_G9_DASpiritForDazDog8.jpg
+../main\animal_Perros\GermanShepherdforDazDog8\creature_G8_Dog8germanShepherd.jpg
+../main\animal_Perros\GP Zombie Dog DAZ Dog 8\creature_G8_GPZombieDogDAZDog8.jpg
+../main\animal_Perros\Hellhound Daz Dog 8\creature_G8_HellhoundDazDog8.jpg
+../main\animal_Perros\The Chihuahua Dog8\creature_G3_TheChihuahuaDog8.jpg
+../main\animal_Perros\Varg Daz Dog 8\creature_G8_VargDazDog8.jpg
 ../main\animal_Pig2\creature_G2_LoREZPig2Bundle.jpg
+../main\animal_reptiles\SY The Constrictor 2\creature_G8_SYTheConstrictor2.jpg
+../main\animal_Rumiantes\American Bison\creature_G8_AmericanBison.jpg
+../main\animal_Rumiantes\animal_Cow\creature_G2_nogginsCattleBreedsLarge.jpg
+../main\animal_Rumiantes\animal_Cow\creature_G2_nogginSCowLarge.jpg
+../main\animal_Rumiantes\The Moose\creature_G8M_TheMoose.jpg
+../main\animal_Sheep\DA Sheep for Daz Horse 3\creature_G8_DASheepForDazHorse3.jpg
+../main\animal_Sheep\DAZSheep2\creature_G2_DazSheep2.jpg
 ../main\animal_Tyrannosaurus\TyrannosaurusDR\creature_G9_TyrannosaurusDR.jpg
+../main\chaarF_Noska8\MechaDinosaur\creature_G8_MechaDinosaur.jpg
 ../main\charF_Calypso9\Calypso9\creature_G9F_Calypso9.jpg
+../main\charF_Crow81\Daz Crow\creature_G8_DazCrow.jpg
 ../main\charF_Freja9\CrowsWingsG9\creature_G9F_CrowsWingsG9.jpg
 ../main\charF_Lauryn9\Lauryn9\creature_G9F_Lauryn9HDCervitaur.jpg
 ../main\charF_Mabel8\HagredHDforMabel8\creature_G8F_HagredHD.jpg
@@ -46,7 +69,8 @@
 ../main\charM_Wagner9\Wagner9\creature_G9M_Wagner9DarkElfAddOn.jpg
 ../main\charM_Wagner9\Wagner9\creature_G9M_Wagner9DemonAddOn.jpg
 ../main\clothing_rags\creature_G3M_WoodyG3M.jpg
-../main\criatura_bicho\ArrakG9\creature_G9M_Arrak9bicho.jpg
+../main\criatura_bichos\ArrakG9\creature_G9M_Arrak9bicho.jpg
+../main\criatura_bichos\Little Friends Insect\creature_G8_LittleFriendsInsect.jpg
 ../main\criatura_CyborgGeneration8\CyborgGeneration8\creature_G8M_CyborgGeneration8.jpg
 ../main\criatura_escoba\BelladonnasBroomstickBrigadeEnchantaBroom\creature_G8_BroomstickEnchantaBroom.jpg
 ../main\criatura_fantasia\StorybookFrogHDG81Ms\creature_G8M_StorybookFrogG8M.jpg
@@ -72,16 +96,23 @@
 ../main\criatura_varios\BaphoG8M\creature_G8M_Bapho8.jpg
 ../main\criatura_varios\Boarkrieg\creature_G9M_FNboarkrieg.jpg
 ../main\criatura_varios\creature_G3_emotiguy.jpg
+../main\criatura_varios\Dimurak Toon Bull Monster\creature_G3_DimurakToonBullMonster.jpg
 ../main\criatura_varios\Elebeast G8\creature_G8M_ElebeastG8.jpg
 ../main\criatura_varios\HamsonG9\creature_G9_HamsonG9.jpg
 ../main\criatura_varios\HippotomyG81M\creature_G8M_Hippotomy8.jpg
 ../main\criatura_varios\Hogger\creature_G9M_Hogger9.jpg
+../main\criatura_varios\Hypnagog G8\creature_G8M_HypnagogG8.jpg
 ../main\criatura_varios\JawsomeQuickstrikeHDSharkG9\creature_G9M_JawsomeSharkG9.jpg
+../main\criatura_varios\Kappa\creature_G8M_KappaDForceHair.jpg
 ../main\criatura_varios\MrEggManFromPoser\creature_G2_MrEggMan.jpg
+../main\criatura_varios\Mutomorph HD G8\creature_G8M_Mutomorph.jpg
 ../main\criatura_varios\OsoNewtG81M\creature_G8M_OsoNewtG8M.jpg
 ../main\criatura_varios\RhinoculousG81M\creature_G8M_Rhinoculous8.jpg
 ../main\criatura_varios\StreetRatwithdForceHairG8M\creature_G8M_StreetRat8.jpg
+../main\criatura_varios\The Gobbler HD G8\creature_G8M_TheGobblerHDG8.jpg
 ../main\criatura_Videogrim\creature_G8_Videogrim.jpg
+../main\env_FromPast\Ancient Egyptian Oasis Bundle\creature_G8_TetracovineWithFurAccessories.jpg
+../main\env_FromPast\Cleopatras Royal Vizier\Morphing Python\creature_G8_MorphingPython.jpg
 ../main\env_PirateLegends\KrakenHDG9\creature_G9_Kraken9.jpg
 ../main\env_Prehistoric\RaptorHDG81M\creature_G8M_RaptorG8M.jpg
 ../main\env_Prehistoric\XIAlienDinosaurforDazDragon3\creature_G2_AlienDinosaurForDazDragon3.jpg
@@ -116,6 +147,11 @@
 ../main\mit_DazDragon3\DAZDragon3\creature_G3_DazDragon3.jpg
 ../main\mit_DazDragon3\DAZDragon3\creature_G3_DazDragon3textures.jpg
 ../main\mit_DazDragon3\DAZDragon3Morphs\creature_G3_DazDragon3morphs.jpg
+../main\mit_Folklore\DireWolfforDazDog8\creature_G8_DireWolfForDazDog8.jpg
+../main\mit_Folklore\figuras\creature_G8M_Gowther.jpg
+../main\mit_Folklore\figuras\creature_G8M_WarGoblinHD.jpg
+../main\mit_Giant\Frost Giant\creature_G3M_FrostGiant.jpg
+../main\mit_Giant\Muelsfell Frost Wight\creature_G8M_MuelsfellFrostWight.jpg
 ../main\mit_Leprechaun8\figuras\creature_G8M_Leprechaun.jpg
 ../main\mit_Lycan9\Lycan9\creature_G9M_Lycan9.jpg
 ../main\mit_Manticore9\ManticoreHDG81M\creature_G8M_ManticoreG8M.jpg
@@ -127,7 +163,12 @@
 ../main\mit_Mummy8\SobekHDCrocodileG8M\creature_G8M_Sobek8.jpg
 ../main\mit_Ocean\EArkhams ZWorld Ocean Sea Serpent\creature_G8_EArkhamsZWorldOceanSeaSerpent.jpg
 ../main\mit_Ocean\Hidra\creature_G8_HydraHidra.jpg
+../main\mit_Ocean\The Great Kraken\creature_G3_TheGreatKraken.jpg
 ../main\mit_Oni8\OniHDG81M\creature_G8M_Oni_Bundle_Main_.jpg
+../main\mit_Orc\Green Orc G9\creature_G9M_GreenOrcG9.jpg
+../main\mit_Orc\GrommokG9\creature_G9M_GrommokOrc.jpg
+../main\mit_Orc\Ogora the Orc HD\creature_G2M_OgoraTheOrcHD.jpg
+../main\mit_Orc\Orc Brute G8\creature_G8M_OrcBruteG8.jpg
 ../main\mit_sirenidosCoral8\AmipiscusFriendlyFishOriginalFigure\creature_G8_AmipiscusFishCoral8.jpg
 ../main\mit_sirenidosCoral8\Coral81\creature_G8F_Coral8.jpg
 ../main\mit_sirenidosZale8\FeligalodonOriginalFigure\creature_G8_Feligalodon.jpg
@@ -143,22 +184,24 @@
 ../main\movie_GuardiansOfTheGalaxy\BabyGroot\creature_G8M_BabyGroot.jpg
 ../main\movie_GuardiansOfTheGalaxy\Groot\creature_G8M_Groot.jpg
 ../main\movie_Horror\creature_G8M_TatteredKiplenutEspantaPajaroG8M.jpg
+../main\movie_Horror\Evil Pumpkin G8\creature_G8M_EvilPumpkinG8.jpg
 ../main\movie_Troll9\ChertTheTroll9HD\creature_G9M_Troll9Chert.jpg
 ../main\movie_Troll9\GrenTheTroll9HD\creature_G9M_Troll9Gren.jpg
 ../main\toon_crab\3DUniverseToonCrab\creature_G8_ToonCrab.jpg
+../main\toon_varios\3DUniverseToonElephantwithdForce\creature_G3_ToonElephant.jpg
 ../main\toon_varios\3DUniverseToonTurkey\creature_G3_ToonTurkey.jpg
 ../main\toon_varios\CartoonChameleon\creature_G3_CartoonChameleon.jpg
 ../main\toon_varios\CartoonParrotforDazStudio\creature_G3_cartoonParrot.jpg
+../main\toon_varios\CockroachBugsyGang\creature_G3_CockroachBugsyAndTheGang.jpg
 ../main\toon_varios\PosesAndExpressions\creature_G3_ToonFrogAndPoses.jpg
 ../main\toon_varios\PugsleytheStylizedPug\creature_G3_PugsleyTheStylizedPug.jpg
 ../main\toon_varios\SnugglestheToonBear\creature_G3_SnugglesTheToonBear.jpg
 ../main\toon_varios\SpeakingCandleSpoonTeacupTeapot\creature_G3_SpeakingCandleSpoonTeacupTeapot.jpg
 ../main\toon_varios\TanktheCartoonTortoise\creature_G3_TankTheCartoonTortoise.jpg
-../main\toon_varios\ToonCockroachBugsyandtheGang\creature_G3_CockroachBugsyAndTheGang.jpg
 ../main\toon_varios\ToonCow\creature_G3_ToonCow.jpg
-../main\toon_varios\ToonLarryG8M\creature_G3_ToonElephant.jpg
 ../main\toon_varios\ToonSnailDAZStudioVersion\creature_G3_ToonSnail.jpg
 ../main\toon_varios\ToonVulture\creature_G3_ToonVulture.jpg
 ../main\toon_varios\zooBundle\creature_G2_zooBundle.jpg
 ../main\toon_varios\zooBundle\Toon_Giraffe\creature_G2_ToonGiraffe.jpg
 ../main\TV_addams\TinkHandCreature\creature_G8_ThingHandCreature.jpg
+../main\TV_anime\FPE Floating Eye G9\creature_G9_FPEFloatingEye.jpg

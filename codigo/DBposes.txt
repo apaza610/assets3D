@@ -1,13 +1,14 @@
-../main\animal_ApeWorld2\PosesAndExpressions\poses_G2_ApeWorld2Poses.jpg
-../main\animal_DazDog8\PosesAndExpressions\poses_G8_BulldogPoses1.jpg
-../main\animal_DazDog8\PosesAndExpressions\poses_G8_BulldogPoses2.jpg
-../main\animal_DazDog8\PosesAndExpressions\poses_G8_Dog8andG8.jpg
-../main\animal_DazHorse3\PosesAndExpressions\poses_G9_DazHorse3G9gentleHorse.jpg
-../main\animal_DazHorse3\PosesAndExpressions\poses_G9_DazHorse3G9WestRide1.jpg
-../main\animal_DazHorse3\PosesAndExpressions\poses_G9_DazHorse3G9WestRide2.jpg
-../main\animal_DazHorse3\PosesAndExpressions\poses_G9_DazHorse3RoadBuggyG9.jpg
-../main\animal_DazHorse3\PosesAndExpressions\poses_G9_DazHorse3RusticCartG9.jpg
 ../main\animal_EagleFalcon\poses_G3_FalconryBundle.jpg
+../main\animal_Equinos\animal_DazHorse3\PosesAndExpressions\poses_G9_DazHorse3G9gentleHorse.jpg
+../main\animal_Equinos\animal_DazHorse3\PosesAndExpressions\poses_G9_DazHorse3G9WestRide1.jpg
+../main\animal_Equinos\animal_DazHorse3\PosesAndExpressions\poses_G9_DazHorse3G9WestRide2.jpg
+../main\animal_Equinos\animal_DazHorse3\PosesAndExpressions\poses_G9_DazHorse3RoadBuggyG9.jpg
+../main\animal_Equinos\animal_DazHorse3\PosesAndExpressions\poses_G9_DazHorse3RusticCartG9.jpg
+../main\animal_monos\animal_ApeWorld2\PosesAndExpressions\poses_G2_ApeWorld2Poses.jpg
+../main\animal_Perros\Ethereal Celestial Forest\poses_G9_GhostlyCompanionPosesForDASpirit.jpg
+../main\animal_Perros\PosesAndExpressions\poses_G8_BulldogPoses1.jpg
+../main\animal_Perros\PosesAndExpressions\poses_G8_BulldogPoses2.jpg
+../main\animal_Perros\PosesAndExpressions\poses_G8_Dog8andG8.jpg
 ../main\anime_Mikey9\PosesAndExpressions\poses_G9M_AnimeSchoolBoyPosesForMikey9 .jpg
 ../main\anime_Mikey9\PosesAndExpressions\poses_G9M_JWHisAnimeExpressionsForMikey9.jpg
 ../main\anime_PosesAndExpressions\AnimeExpressionCollectionforToon9\poses_G9_AnimeExpressionCollectionForToon9.jpg
@@ -15,6 +16,11 @@
 ../main\anime_PosesAndExpressions\posesPoses\poses_G9F_WitchToonPosesG9ToonFeminine.jpg
 ../main\anime_Vicky9\PosesAndExpressions\poses_G9F_HerAnimeExpressionsForVicky9.jpg
 ../main\anime_Vicky9\PosesAndExpressions\poses_G9F_WonderfulAnimePosesG9.jpg
+../main\chaarF_Noska8\posando\poses_G8F_CDIAssassin.jpg
+../main\chaarF_Noska8\posando\poses_G8F_FutureSamuraiAnimationsWithSword.jpg
+../main\chaarF_Noska8\posando\poses_G8F_KogarashiWarFansPoses.jpg
+../main\chaarF_Noska8\posando\poses_G8F_NoskasFight.jpg
+../main\chaarF_Noska8\posando\poses_G8F_SamuraiPowerExpressions.jpg
 ../main\charF_Aiko8\PosesAndExpressions\poses_G8F_aiko8poses1.jpg
 ../main\charF_Aiko8\PosesAndExpressions\poses_G8F_aiko8poses2.jpg
 ../main\charF_Aiko8\PosesAndExpressions\poses_G8F_aiko8poses3.jpg
@@ -24,6 +30,8 @@
 ../main\charF_Amelia9\PosesAndExpressions\poses_G9F_CDIsoldierG9F1.jpg
 ../main\charF_Amelia9\poses_G9F_CDIsoldierG9F2.jpg
 ../main\charF_Amelia9\poses_G9F_CDIsoldierG9F6.jpg
+../main\charF_Angela9\ActionPosesFeminineBase\poses_G9F_ActionPosesFeminineBase.jpg
+../main\charF_Angela9\CDIAttitudePoses\poses_G9F_CDIAttitudePoses.jpg
 ../main\charF_Arabella7\PosesAndExpressions\poses_G3F_Arabella7NoctemSanguinis1.jpg
 ../main\charF_Arabella7\PosesAndExpressions\poses_G3F_Arabella7NoctemSanguinis2.jpg
 ../main\charF_Arabella7\PosesAndExpressions\poses_G3F_Arabella7NoctemSanguinis3.jpg
@@ -46,6 +54,8 @@
 ../main\charF_Cheyenne9\PosesAndExpressions\poses_G9F_Cheyenne9JWcourageous1.jpg
 ../main\charF_Cheyenne9\PosesAndExpressions\poses_G9F_Cheyenne9JWcourageous2.jpg
 ../main\charF_Cheyenne9\PosesAndExpressions\poses_G9F_Cheyenne9JWcourageous3.jpg
+../main\charF_Crow81\The Familiar Poses Daz Crow\poses_G8_TheFamiliarPosesDazCrow.jpg
+../main\charF_Crow81\The Healer Poses\poses_G8F_TheHealerPoses.jpg
 ../main\charF_Death9\PosesAndExpressions\poses_G9F_JWTheDeathExpressionsDeath9.jpg
 ../main\charF_DragonGirl8\FanLingHDG8F\poses_G8F_FanLing8poses1.jpg
 ../main\charF_DragonGirl8\PosesAndExpressions\poses_G8F_FanLing8poses2.jpg
@@ -66,10 +76,14 @@
 ../main\charF_Honni8\PosesAndExpressions\poses_G8F_zPrairieLifeHonni8b.jpg
 ../main\charF_Honni8\PosesAndExpressions\poses_G8F_zPrairieLifeHonni8c.jpg
 ../main\charF_Honni8\PosesAndExpressions\poses_G8F_zPrairieLifeHonni8f.jpg
+../main\charF_Jada8\poses\poses_G8F_ZUndercoverRollergirl.jpg
 ../main\charF_Jennie9\PosesAndExpressions\poses_G9F_JWSuperstarJennie91.jpg
 ../main\charF_Jennie9\PosesAndExpressions\poses_G9F_JWSuperstarJennie92.jpg
 ../main\charF_Jennie9\PosesAndExpressions\poses_G9F_JWSuperstarJennie93.jpg
 ../main\charF_Joan9\PosesAndExpressions\poses_G9F_HighElvenArcher.jpg
+../main\charF_Josie9\posando\poses_G9F_Expressive.jpg
+../main\charF_Josie9\posando\poses_G9F_Let'sDancePoseSet.jpg
+../main\charF_Josie9\posando\poses_G9F_TeenIdolPosesJosie.jpg
 ../main\charF_Kala8\PosesAndExpressions\poses_G8F_ExoticBeautyPosesAndExpressionsForKala8.jpg
 ../main\charF_Kala8\PosesAndExpressions\poses_G8F_SeatedModelPosesG8.jpg
 ../main\charF_Kala9\PosesAndExpressions\poses_G9F_FarAwayDancer.jpg
@@ -80,6 +94,9 @@
 ../main\charF_Kara9\IMG\poses_G9F_Kara9Expression5.jpg
 ../main\charF_Karen7\PosesAndExpressions\poses_G3F_DarkSpell.jpg
 ../main\charF_Karen7\PosesAndExpressions\poses_G3F_supercomic.jpg
+../main\charF_Kayla9\posando\poses_G9F_JWFantasyKayla9.jpg
+../main\charF_KinPrisma\posando\poses_G9F_Kin.jpg
+../main\charF_KinPrisma\posando\poses_G9F_preciousVictoria9.jpg
 ../main\charF_Lianna9\PosesAndExpressions\poses_G9F_Lianna9DrowElfArcher 1.jpg
 ../main\charF_Lianna9\PosesAndExpressions\poses_G9F_Lianna9DrowElfArcher 2.jpg
 ../main\charF_Lianna9\PosesAndExpressions\poses_G9F_Lianna9DrowElfArcher 3.jpg
@@ -98,6 +115,7 @@
 ../main\charF_Mabel8\PosesAndExpressions\poses_G8F_ZWickedSorcery3.jpg
 ../main\charF_Mabel8\PosesAndExpressions\poses_G8F_ZWickedSorcery6.jpg
 ../main\charF_Madison9\posando\poses_G9F_JWDailyFaces.jpg
+../main\charF_Maryam9\posando\poses_G9F_JWExpressionsForMaryam9.jpg
 ../main\charF_Meilin6\PosesAndExpressions\poses_G2F_ChinaDollPosesMeiLin6.jpg
 ../main\charF_Meilin6b\PosesAndExpressions\poses_G2F_CapscesPosesMeiLin6.jpg
 ../main\charF_Meilin6b\PosesAndExpressions\poses_G2F_CutenPlayfulPoses.jpg
@@ -165,6 +183,7 @@
 ../main\charF_Tabitha9\PosesAndExpressions\poses_G9F_Tabitha9MagusLibris1.jpg
 ../main\charF_Tabitha9\PosesAndExpressions\poses_G9F_Tabitha9MagusLibris2.jpg
 ../main\charF_Tabitha9\PosesAndExpressions\poses_G9F_Tabitha9MagusLibris3.jpg
+../main\charF_Tara8\posando\poses_G8F_StealthFighterPosesG8Tara.jpg
 ../main\charF_Tara9\PosesAndExpressions\poses_G9F_HalflingsPosesTara9WingsandBelethHair .jpg
 ../main\charF_TeenJosie8\PosesAndExpressions\poses_G8F_bosomBuddy2.jpg
 ../main\charF_TeenJosie8\PosesAndExpressions\poses_G8F_bosomBuddy3.jpg
@@ -195,6 +214,9 @@
 ../main\charF_VanHelsing9\PosesAndExpressions\poses_G9F_VanHelsing9hunter2.jpg
 ../main\charF_VanHelsing9\PosesAndExpressions\poses_G9F_VanHelsing9hunter3.jpg
 ../main\charF_Victoria4\2ProBundleAddons\poses_V4_AmbrosiaPoses.jpg
+../main\charF_Victoria6\posando\poses_G2F_CasualSexyPosesG2F.jpg
+../main\charF_Victoria6\posando\poses_G2F_NocturnePosesV6.jpg
+../main\charF_Victoria6\posando\poses_G2F_SweetEmotionV6.jpg
 ../main\charF_Victoria7\CapscesFunandFlirtyVictoria7\poses_G3F_FunAndFlirtyVictoria7.jpg
 ../main\charF_Victoria7\PosesAndExpressions\poses_G3F_FeelItExpressionsVictoria7.jpg
 ../main\charF_Victoria7\PosesAndExpressions\poses_G3F_i13SexyModelPosesVictoria7.jpg
@@ -238,6 +260,8 @@
 ../main\charM_Bishop9\PosesAndExpressions\poses_G9M_JWBraveryExpressions.jpg
 ../main\charM_Christian8\PosesAndExpressions\poses_G8M_BadBoy.jpg
 ../main\charM_Christian8\PosesAndExpressions\poses_G8M_ZStillGotIt.jpg
+../main\charM_Dain8\posando\poses_G8M_ActionPosesForDain8.jpg
+../main\charM_Dain8\posando\poses_G8M_BouncerPosesForDain8.jpg
 ../main\charM_Dain9\PosesAndExpressions\poses_G9M_JWWarManForDain91.jpg
 ../main\charM_Dain9\PosesAndExpressions\poses_G9M_JWWarManForDain92.jpg
 ../main\charM_Dain9\PosesAndExpressions\poses_G9M_JWWarManForDain93.jpg
@@ -293,6 +317,7 @@
 ../main\charM_Ivan7\PosesAndExpressions\poses_G3M_zBarbarian.jpg
 ../main\charM_Ivar9Viking\PosesAndExpressions\poses_G9M_IvarsBattleHierarchical6.jpg
 ../main\charM_Ivar9Viking\PosesAndExpressions\poses_G9M_IvarsBattleHierarchical7.jpg
+../main\charM_Jazz8\Z Undercover Poses\poses_G8_ZUndercoverPoses.jpg
 ../main\charM_Jonathan8\PosesAndExpressions\poses_G8M_CDIPosesForJonathan8.jpg
 ../main\charM_Jonathan8\PosesAndExpressions\poses_G8M_SpyGuyPosesForJonathan8.jpg
 ../main\charM_JuanCarlos8\JuanCarlos8\poses_G8M_ZOnAHuntJuanCarlos8.jpg
@@ -302,6 +327,10 @@
 ../main\charM_Kento8\PosesAndExpressions\poses_G8M_Kento8oldSoul2.jpg
 ../main\charM_Kjaer8\PosesAndExpressions\poses_G8M_ZNorseWarrior2.jpg
 ../main\charM_Kjaer8\PosesAndExpressions\poses_G8M_ZNorseWarrior5.jpg
+../main\charM_Kota8\Arm of the Demon King\poses_G8M_TheClawPosesForKota8.jpg
+../main\charM_Kota8\posando\poses_G8M_GuitarAnimations.jpg
+../main\charM_Kota8\posando\poses_G8M_MercenaryFoxPosesForKota8.jpg
+../main\charM_Kota8\posando\poses_G8M_ZMusicIdolPoses.jpg
 ../main\charM_Lahr9\PosesAndExpressions\poses_G9M_Lahr9expressions1.jpg
 ../main\charM_Lahr9\PosesAndExpressions\poses_G9M_Lahr9expressions2.jpg
 ../main\charM_Lahr9\PosesAndExpressions\poses_G9M_Lahr9kingPoses1.jpg
@@ -408,6 +437,11 @@
 ../main\charM_Walter9\PosesAndExpressions\poses_G9M_Walter9JWElderly3.jpg
 ../main\charM_Wang9\PosesAndExpressions\poses_G9M_Wang9urbanStyle1.jpg
 ../main\charM_Wang9\PosesAndExpressions\poses_G9M_Wang9urbanStyle2.jpg
+../main\charM_Wolfgang8\posando\poses_G8M_BlazeHighSeasPosesProps.jpg
+../main\charM_Wolfgang8\posando\poses_G8M_CaptainWolfgangPoses.jpg
+../main\charM_Wolfgang8\posando\poses_G8M_CDIPiratePoses.jpg
+../main\charM_Wolfgang8\posando\poses_G8M_PirateAnimations.jpg
+../main\charM_Xola9\posando\poses_G9_JWPastLife.jpg
 ../main\char_Baby8\PosesAndExpressions\poses_G8_G8bundlesOfJoy1.jpg
 ../main\char_Baby8\PosesAndExpressions\poses_G8_G8bundlesOfJoy2.jpg
 ../main\char_Baby8\PosesAndExpressions\poses_G8_G8bundlesOfJoy8.jpg
@@ -419,25 +453,35 @@
 ../main\char_creationOfTheNight\VictorianVampireOutfitdForceJacketG8and81Ms\poses_G8_VampireJunfan8b.jpg
 ../main\char_Presidencial\posando\poses_G9M_ExpressionsForDonnie9.jpg
 ../main\char_Presidencial\posando\poses_G9M_ExpressionsForJoey9.jpg
+../main\clothing_Cheerleader\Cheer Fantasy Cheerleader Poses\poses_G3F_CheerFantasyCheerleaderPoses.jpg
+../main\clothing_Cheerleader\Cheer Fantasy College Cheerleader Poses\poses_G3F_CheerFantasyCollegeCheerleaderPoses.jpg
+../main\clothing_Cheerleader\Z The Cheerleader Effect - PropsPoses G38\poses_G8F_ZTheCheerleaderEffectG3G8.jpg
+../main\clothing_FromFuture\Bounty Hunter Bundle\posando\poses_G8F_BountyHunter.jpg
 ../main\clothing_FromFuture\Brenn\poses_G8F_arcaneShotPoses1.jpg
 ../main\clothing_FromFuture\Brenn\poses_G8F_arcaneShotPoses2.jpg
 ../main\clothing_FromFuture\Brenn\poses_G8F_arcaneShotPoses6.jpg
 ../main\clothing_FromFuture\Brenn\poses_G8F_arcaneShotPoses7.jpg
 ../main\clothing_FromFuture\Brenn\poses_G8F_arcaneShotPoses8.jpg
+../main\clothing_FromPast\Egyptian MEGA\Pose like an Egyptian\poses_G3F_PoseLikeAnEgyptian.jpg
 ../main\clothing_Sports\HighTechScubaDiverG8Fs\poses_G8F_HighTechScubaDiverG8F.jpg
+../main\clothing_Sports\Olympic Gymnastic\poses_G9F_OlympicGymnastic.jpg
 ../main\criatura_TreeGiant\PosesAndExpressions\poses_G8F_FloraG8Fa.jpg
 ../main\criatura_TreeGiant\PosesAndExpressions\poses_G8F_FloraG8Fb.jpg
 ../main\criatura_TreeGiant\PosesAndExpressions\poses_G8M_G8MtreeGiant11.jpg
 ../main\criatura_TreeGiant\PosesAndExpressions\poses_G8M_G8MtreeGiant12.jpg
+../main\env_ClimbHigh\posando\poses_G8F_MDCHClimbingG3G8.jpg
 ../main\env_enchantedGala\PosesAndExpressions\poses_G3_EnchantedDance.jpg
+../main\env_FromPast\Ancient Egyptian Oasis Bundle\poses_G8M_EgyptianPosesG8.jpg
+../main\env_FromPast\Cleopatras Royal Vizier\Morphing Python\poses_G8F_SerpentMaidenPosesMorphingPython.jpg
+../main\env_FromPast\Cleopatras Royal Vizier\posando\poses_G8F_MaidOfTheNilePoses.jpg
 ../main\env_FromPast\EgyptAncient\PosesAndExpressions\poses_G3M_AncientEgypt.jpg
 ../main\env_HorrorWorstNightmare\PosesAndExpressions\poses_G8F_G3G8nightmares1.jpg
 ../main\env_HorrorWorstNightmare\PosesAndExpressions\poses_G8F_G3G8nightmares2.jpg
 ../main\env_HouseFeedThePeople\PosesAndExpressions\poses_G8F_G8icecreamParlor.jpg
 ../main\env_HouseFeedThePeople\PosesAndExpressions\poses_G8_G8familyOfThree1.jpg
 ../main\env_HouseFeedThePeople\PosesAndExpressions\poses_G8_G8familyOfThree2.jpg
-../main\env_MedicalFrontlineHeroes\PosesAndExpressions\poses_G2M_rescuePosesG2M.jpg
-../main\env_MedicalFrontlineHeroes\PosesAndExpressions\poses_G8_emergencyRoomPosesG8.jpg
+../main\env_Medical\Emergency Room\poses_G8_emergencyRoomPosesG8.jpg
+../main\env_Medical\PosesAndExpressions\poses_G2M_rescuePosesG2M.jpg
 ../main\env_PresentUrban\Classroom\ZLateTeenYearsShapeandPoseMegaSet\poses_G8_LateTeenYearsShapeAndPose.jpg
 ../main\env_Sports\SportFitness\PosesAndExpressions\poses_G9M_GymWorkoutGear6.jpg
 ../main\env_Sports\SportFitness\PosesAndExpressions\poses_G9M_GymWorkoutGear7.jpg
@@ -446,6 +490,7 @@
 ../main\env_Sports\SportGetInTheRing\PosesAndExpressions\poses_G8M_wrestlerExpressions.jpg
 ../main\env_Sports\SportGetInTheRing\PosesAndExpressions\poses_G8M_zVictorious.jpg
 ../main\env_Studio\poses_G8_STZphotoStudioPosesG8G9.jpg
+../main\env_Sumo\Sumo Poses George\poses_G3M_SumoPosesGeorge.jpg
 ../main\env_WildWestG8\PosesAndExpressions\poses_G8F_G8CDIsaloon1.jpg
 ../main\env_WildWestG8\PosesAndExpressions\poses_G8F_G8CDIsaloon2.jpg
 ../main\env_WildWestG8\PosesAndExpressions\poses_G8F_G8CDIsaloon5.jpg
@@ -508,6 +553,8 @@
 ../main\history_Twosret8\poses_G8F_pharaohAnimations.jpg
 ../main\history_Twosret8\poses_G8F_Twosret8divinity1.jpg
 ../main\history_Twosret8\poses_G8F_Twosret8divinity2.jpg
+../main\mit_Assassin8\Assassin Poses GM\poses_G8M_AssassinPoses.jpg
+../main\mit_Barbarian\BarbaricPosesforClassicBarbarian9\poses_G9M_BarbaricPosesforClassicBarbarian9.jpg
 ../main\mit_Centaur7\PosesAndExpressions\poses_G3M_Centaur7M1.jpg
 ../main\mit_Centaur7\PosesAndExpressions\poses_G3M_Centaur7M2.jpg
 ../main\mit_Centaur7\PosesAndExpressions\poses_G3M_Centaur7M7.jpg
@@ -526,6 +573,7 @@
 ../main\mit_Centaur8\PosesAndExpressions\poses_G8M_Centaur8Minvincible3.jpg
 ../main\mit_Centaur9\PosesAndExpressions\poses_G9_CentaurArcherPoses.jpg
 ../main\mit_Cerberus\PosesAndExpressions\poses_G8M_HoundOfHellPosesForCerberus.jpg
+../main\mit_Folklore\Goblin Rider War Goblin and Dire Wolf\poses_G8M_GoblinRiderWarGoblinAndDireWolf.jpg
 ../main\mit_Jesus9\PosesAndExpressions\poses_G9M_John9TheGuide1.jpg
 ../main\mit_Jesus9\PosesAndExpressions\poses_G9M_John9TheGuide2.jpg
 ../main\mit_Jesus9\PosesAndExpressions\poses_G9M_John9TheGuide3.jpg
@@ -551,6 +599,7 @@
 ../main\mit_sirenidosZale8\PosesAndExpressions\poses_G8M_KingoftheSea2.jpg
 ../main\mit_sirenidosZale8\poses_G8M_Anims.jpg
 ../main\mit_Wizard8\PosesAndExpressions\poses_G8M_WiseWizard8.jpg
+../main\movie_Batman\Dark Knight Bundle\poses_G9M_TheCavePosesG9andDSBSpyCave.jpg
 ../main\movie_Caldwell9AndTheAliens\PosesAndExpressions\poses_G9_CDIspaceValkyrieG9-1.jpg
 ../main\movie_Caldwell9AndTheAliens\PosesAndExpressions\poses_G9_CDIspaceValkyrieG9-2.jpg
 ../main\movie_Caldwell9AndTheAliens\PosesAndExpressions\poses_G9_CDIspaceValkyrieG9-3.jpg
@@ -575,10 +624,13 @@
 ../main\poseAsset_CarryPushPull\poses_G8_CarryPosesG8.jpg
 ../main\poseAsset_CarryPushPull\ZPushorPullPoseUtilitySetG9and8F\poses_G8_ZdragPullCarryG8.jpg
 ../main\poseAsset_CarryPushPull\ZUtilityHoldandCarryPoseMegaSet\poses_G8_ZutilityHoldCarryMegaSetG3G8.jpg
+../main\poseAsset_climbing\1stB Climb That Ladder PropsPoses\poses_G8F_1stBClimbThatLadderPropsPoses.jpg
 ../main\poseAsset_Cooking\poses_G8_ZHouseholdChoresCookingG8.jpg
-../main\poseAsset_drinking\PosesAndExpressions\poses_G8_DrinkUpPropsAndPosesCollectionG8.jpg
-../main\poseAsset_drinking\PosesAndExpressions\poses_G8_ZDrinkingGamesPropsAndPosesG8.jpg
-../main\poseAsset_drinking\ZStayHydratedPropandPoseMegaSet\poses_G8_StayHydratedPropAndPoseMegaSet.jpg
+../main\poseAsset_Dancing\Pop Idols Generation PosesProps\poses_G8F_PopIdolsGenerationPosesProps.jpg
+../main\poseAsset_Dancing\S3D k-Pop Idol Poses Kanade G8\poses_G8F_S3DKPopIdolPosesKanadeG8.jpg
+../main\poseAsset_Drinking\PosesAndExpressions\poses_G8_DrinkUpPropsAndPosesCollectionG8.jpg
+../main\poseAsset_Drinking\PosesAndExpressions\poses_G8_ZDrinkingGamesPropsAndPosesG8.jpg
+../main\poseAsset_Drinking\ZStayHydratedPropandPoseMegaSet\poses_G8_StayHydratedPropAndPoseMegaSet.jpg
 ../main\poseAsset_DrunkDead\csrDeadUnconsciousSickG8G9\poses_G9_csrDeadUnconsciousG8G9.jpg
 ../main\poseAsset_DrunkDead\csrDeadUnconsciousSickG8G9\poses_G9_csrSickG8G9.jpg
 ../main\poseAsset_DrunkDead\PosesAndExpressions\poses_G3_G3G8zDrunkHungover1.jpg
@@ -591,6 +643,7 @@
 ../main\poseAsset_DrunkDead\ZDrunkenBehaviourG8and81MandF\poses_G8_zDrunken3.jpg
 ../main\poseAsset_EatDrink\EatDrinkandBeMerry\poses_G8_EatDrinkBeMerryPoses.jpg
 ../main\poseAsset_EatDrink\Noodles\poses_G8_NoodlesPropsAndPoses.jpg
+../main\poseAsset_Fight\Medieval Fun Battle Pose\poses_G9_MedievalFunBattlePose.jpg
 ../main\poseAsset_G3F\poses_G8F_G3G8sexyReflections1.jpg
 ../main\poseAsset_G3F\poses_G8F_G3G8sexyReflections2.jpg
 ../main\poseAsset_G8F\alone time pose pack for g8f\poses_G8F_AloneTimePosesG8a.jpg
@@ -618,15 +671,26 @@
 ../main\poseAsset_G9Fcleaning\poses_G9F_Victoria9VSmouse3.jpg
 ../main\poseAsset_HideAndSeek\ZHideandSeekPoseMegaSet\poses_G8_hideAndSeek.jpg
 ../main\poseAsset_jump\PosesAndExpressions\poses_G8_IJumpPosesG8.jpg
+../main\poseAsset_Romance\In His Arms Poses G9 MasculineFeminine\poses_G9_InHisArmsPoses.jpg
 ../main\poseAsset_ScaredCrying\poses_G8_ScaredCryingG8G9.jpg
 ../main\poseAsset_sex\Ahegao Kawaii\poses_G8F_AhegaoKawaiiG8.jpg
 ../main\poseAsset_sex\ahegaoG81F\poses_G8F_ahegaoExpressionsG81F.jpg
 ../main\poseAsset_sex\Directors Cut Poses  Pussy Eating G8\poses_G8_PussyEatingG8DirectorsCut.jpg
+../main\poseAsset_sex\KuJ Pole Dance Poses G98\poses_G9F_KuJPoleDancePosesG9G8.jpg
 ../main\poseAsset_sex\P Eating Poses G9  Directors Cut Poses\poses_G9_DirectorsCut.jpg
 ../main\poseAsset_sex\Storming The Palace G8F Golden Palace\poses_G8F_Main_Penetralia.jpg
 ../main\poseAsset_sex\The P Eater G8\poses_G8_thePussyEaterForG801.jpg
+../main\poseAsset_sex\Z Calendar Girl ShapePose Mega Set\poses_G9F_ZCalendarGirlShapePoseMegaSetG9G8.jpg
 ../main\poseAsset_Singer\PosesAndExpressions\poses_G8F_KuJSingerPosesG8G9.jpg
 ../main\poseAsset_SmokeBreak\poses_G8_ZSmokeBreakPropsPoses.jpg
+../main\poseAsset_Sports\Acrobat - GymnasticsTumbling Poses G8\poses_G8_AcrobatGymnasticsTumbling.jpg
+../main\poseAsset_Sports\Basketball Hierarchical Poses Sports Ball Set\poses_G9_BasketballHierarchicalPosesSportsBallSet.jpg
+../main\poseAsset_Sports\FG Sports Equipment\poses_G8F_FGsportsEquipmentPoses.jpg
+../main\poseAsset_Sports\Sports Poses\poses_G9_SportsPoses.jpg
+../main\poseAsset_Sports\Z Utility Series Ball Sports\poses_G8_ZUtilitySeriesBallSportsG3G8.jpg
+../main\poseAsset_Sports\Z Utility Series Fitness Exercise\poses_G8_ZUtilitySeriesFitnessExerciseG3G8.jpg
+../main\poseAsset_Sports\Z Utility Series Jumping Running Falling\poses_G8_ZUtilityJumpingRunningFallingG3G8.jpg
+../main\poseAsset_Sports\Z Utility Series Sport Movement\poses_G8_ZUtilitySeriesSportMovement.jpg
 ../main\poseAsset_StrictStern\poses_G8F_ZStrictSternPropPosesG9G8.jpg
 ../main\poseAsset_superHero\PosesAndExpressions\poses_G8_UltimateSuperheroPosesG8.jpg
 ../main\poseAsset_TaiChiChuan\PosesAndExpressions\poses_G3M_TaiChiChuanLee7G3.jpg
@@ -635,6 +699,8 @@
 ../main\propAsset_FlyFishingGear\FlyFishingGear\poses_G8M_FlyFishingGearPoses.jpg
 ../main\propAsset_shower\JW My Towel PropPoses\poses_G8_JWMyTowelPropPosesG8.jpg
 ../main\propAsset_shower\ZInTheShowerPoseMegaSetG98And81F\poses_G9_ZinTheShowerPoseMegaSetG9G8.jpg
+../main\propAsset_Sports\Fat Bike\poses_G8M_DirtBikePosesG8M.jpg
+../main\propAsset_Sports\Velodrome Bike\poses_G8_VeloBikeRacingPosesG8.jpg
 ../main\toonG8F_TheGirl8\PosesAndExpressions\poses_G8F_TheGirl8burlesqueDance1.jpg
 ../main\toonG8F_TheGirl8\PosesAndExpressions\poses_G8F_TheGirl8burlesqueDance2.jpg
 ../main\toonG8F_TheGirl8\PosesAndExpressions\poses_G8F_TheGirl8burlesqueDance3.jpg

@@ -1,20 +1,25 @@
+../main\animal_Perros\Ethereal Celestial Forest\materials_G9_EtherealVDBFX.jpg
 ../main\anime_anatomy\PorcelainCircuitsLIEMakeUpG9G9Toon\materials_G9_PorcelainCircuitsLIEMakeUpG9andG9toon.jpg
 ../main\anime_Mikey9\IconicEyesG9Toon\materials_G9M_IconicEyesG9Toon.jpg
 ../main\anime_Vicky9\ToonMakeupSystemVicky9Makeup\materials_G9F_Vicky9Makeup.jpg
 ../main\charF_Ally9\Ally9Makeup\materials_G9F_ally9makeup.jpg
 ../main\charF_Amelia9\Amelia9HDMakeupCollection\materials_G9F_amelia9makeup.jpg
+../main\charF_Angela9\Angela9HDMakeup\materials_G9F_Angela9HDMakeup.jpg
 ../main\charF_Ashley9\OfficeHoursLIEMakeup\materials_G9F_OfficeHoursLIEMakeup.jpg
 ../main\charF_Brianna9\materiales\materials_G9F_WeddingDayLIEMakeup.jpg
 ../main\charF_Calypso9\Calypso9MakeupCollection\materials_G9F_Calypso9makeup.jpg
 ../main\charF_Cecelia9\MakeupSystemGothicGlamourLIEMakeupG9\materials_G9F_GothicGlamourLIEMakeupCecelia9.jpg
 ../main\charF_Cheyenne9\MakeupSystemNativeFierceLIEMakeupG9\materials_G9F_NativeFierceLIEG9.jpg
+../main\charF_Crow81\FPE Crow Geoshell Makeup\materials_G8F_FPECrowGeoshellMakeup.jpg
 ../main\charF_Death9\ApocalypseEyesG9\materials_G9_ApocalypseEyesG9.jpg
 ../main\charF_Freja9\VikingMakeupShellJewelry\materials_G9_VikingMakeupG9.jpg
 ../main\charF_Freja9\WarPaintLIEG9\materials_G9_WarPaintG9.jpg
 ../main\charF_Jennie9\KPopLIEMakeupCollectionG9\materials_G9F_KPopLIEMakeupG9.jpg
+../main\charF_Kai9\materials_G9F_TatauTribalTattoo.jpg
 ../main\charF_Kara9\MakeupSystemKara9LIEMakeupCollection\materials_G9F_Kara9LIEmakeup.jpg
 ../main\charF_Lyna9\CyberLIEDetailsG9\materials_G9F_CyberLIEDetails.jpg
 ../main\charF_Madison9\materiales\materials_G9F_SunMuseLIEMakeup.jpg
+../main\charF_Maryam9\materiales\materials_G9F_CatEyeMakeup.jpg
 ../main\charF_Meilin6\MeiLin6GeishaMakeups\materials_G2F_MeiLin6GeishaMakeUps.jpg
 ../main\charF_Mira9\FPEColorfulTattoosG9\materials_G9F_FPEcolorfulTattoosG9.jpg
 ../main\charF_Mira9\Mira9Ages\materials_G9F_Mira9HDmakeup.jpg
@@ -48,6 +53,7 @@
 ../main\charM_Pablo8\FPEDiadelosMuertosLIEMakeupG81\materials_G8_DiaDeMuertosMakeup.jpg
 ../main\charM_Underbelly\MakeMePunkShadersandDecals\materials_G8_MakeMePunkShadersandDecals.jpg
 ../main\charM_Wang9\IrezumiBlackAndGreyLIETattoosG9\materials_G9M_Wang9tatoos.jpg
+../main\env_FromPast\Cleopatras Royal Vizier\otros\materials_G8F_ExtremeCloseupCleoStyleGeoshellMakeups.jpg
 ../main\env_ReturnToTreasureIsland\LIEPirateFaceandBodyMakeupG8\materials_G8_liePirateFaceAndBodyG8.jpg
 ../main\env_WildWestG8\RippedBurlapShaders\materials_G8_RippedBurlapShaders.jpg
 ../main\game_Kaede9\MakeupSystemBeautifulSpringLIEMakeupG9\materials_G9F_Kaede9Makeup.jpg
@@ -69,5 +75,6 @@
 ../main\mit_Leprechaun8\materiales\materials_G8_GreenWaterIrayShaders.jpg
 ../main\mit_Medusa9\PetrificationforG\materials_G9_PetrificationG9.jpg
 ../main\mit_Mercilus9\materiales\materials_G9M_BloodySkin.jpg
+../main\mit_TorianElven\Vignette\materials_G8F_VignetteG.jpg
 ../main\movie_Troll9\TrollStoneSkinG9\materials_G9M_Troll9stoneSkin.jpg
 ../main\toonG9F_Kiri9\Kiri9HDDarkAltMakeupAddOn\materials_G9F_Kiri9makeup.jpg

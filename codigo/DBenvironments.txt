@@ -1,6 +1,7 @@
-../main\animal_DazDog8\DogSpa\environments_G8_DogSpa.jpg
-../main\animal_DazHorse2\Barn Yard\environments_G3_BarnYard.jpg
-../main\animal_DazHorse3\IronRidgeHorsePasture\environments_G8_IronRidgeHorsePasture.jpg
+../main\animal_Equinos\animal_DazHorse2\Barn Yard\environments_G3_BarnYard.jpg
+../main\animal_Equinos\animal_DazHorse3\IronRidgeHorsePasture\environments_G8_IronRidgeHorsePasture.jpg
+../main\animal_Perros\DogSpa\environments_G8_DogSpa.jpg
+../main\animal_Perros\Ethereal Celestial Forest\environments_G9_CelestialForest.jpg
 ../main\anime_environments\OakviewAnimeHighSchool\environments_G9_OakviewAnimeHighSchool.jpg
 ../main\anime_environments\XIAnimeClassroom\environments_G9_XIAnimeClassroom.jpg
 ../main\anime_environments\XIAnimeCondominium\environments_G9_XIAnimeCondominium.jpg
@@ -8,6 +9,7 @@
 ../main\anime_scenes\DivaIceThrone\environments_G9_DivaIceThrone.jpg
 ../main\anime_scenes\FilatoonSkies\environments_G9_FilatoonSkies.jpg
 ../main\anime_scenes\TerasBedroom\environments_G9_TerasBedroom.jpg
+../main\charF_Angela9\XIRedCarpet\environments_G9_XIRedCarpet.jpg
 ../main\charF_Asha9\XISteampunkSlums\environments_G9F_XISteampunkSlums.jpg
 ../main\charF_Asha9\XISteampunkSlumsToon\environments_G9F_XISteampunkSlumsToon.jpg
 ../main\charF_Audrey9\environments_G9_XICozyTeenRoom.jpg
@@ -17,12 +19,16 @@
 ../main\charF_Bonnie8\TransformingSpeakeasy\environments_G8_SpeakeasyTeaHouse.jpg
 ../main\charF_DragonGirl8\TheStreetsOfAsia4\environments_G8_streetsOfAsia.jpg
 ../main\charF_Freja9\VikingLongHouse\environments_G9_VikingLongHouse.jpg
+../main\charF_Josie9\XI Futuristic Nightclub\environments_G9_XIFuturisticNightclub.jpg
 ../main\charF_Julia9\BETTYDormRoom\environments_G9_BETTYdormRoom.jpg
 ../main\charF_Lyna9\XICyberHackersRoom\environments_G9F_XICyberHackersRoom.jpg
 ../main\charF_Millawa8\CryoLab\environments_G8_CryoLab.jpg
 ../main\charF_Minerva9\SnowyLondonStreet\environments_G9_SnowyLondonStreet.jpg
 ../main\charF_Olympia9\XIZeusThroneRoom\environments_G9_XIzeusThroneroom.jpg
 ../main\charF_Pixie9Fairy\WhereFairiesLive\environments_G9F_WhereFairiesLive.jpg
+../main\charF_Tara8\paisaje\environments_G8_FantasyForest.jpg
+../main\charF_Tara8\paisaje\environments_G8_PathBetweenTheCliffs.jpg
+../main\charF_Tara8\paisaje\environments_G8_RockyPlace.jpg
 ../main\charF_Topsy8\TinkerersWorkshop\environments_G8_TinkerersWorkshop.jpg
 ../main\charF_Topsy8\VictorianRooftopChristmas\environments_G8_VictorianRooftopChristmas.jpg
 ../main\charF_Victoria9\MegaTerrainHighlands\environments_G9_Highlands.jpg
@@ -57,6 +63,8 @@
 ../main\charM_Michael9Fantasy\StreetsofMedieval\environments_G9_TheStreetsoftheMedieval.jpg
 ../main\charM_Nathan9Revel\TheDirtRoad\environments_G9_TheDirtRoad.jpg
 ../main\charM_Necromancer8\TheSkullCastle\environments_G8_TheSkullCastle.jpg
+../main\charM_Niko8\lugares\environments_G8_BotanicalSpaceLab.jpg
+../main\charM_Niko8\lugares\environments_G8_CyberpunkNightClub.jpg
 ../main\charM_Nikolai9\CozyChristmasLounge\environments_G9_CozyChristmasLounge.jpg
 ../main\charM_Nikolai9\ScrubbysChristmasTreeLot\environments_G9_ScrubbysChristmasTreeLot.jpg
 ../main\charM_Nikolai9\XICommercialCenter\environments_G9_XiCommercialCenter.jpg
@@ -65,15 +73,22 @@
 ../main\charM_Thimor9\XIDwarvenDwelling\environments_G9_XIDwarvenDwelling.jpg
 ../main\charM_Underbelly\MobsterRoom\environments_G8_MobsterRoom.jpg
 ../main\charM_Underbelly\RetroInterrogationRoom\environments_G8_RetroInterrogationRoom.jpg
+../main\charM_Wolfgang8\lugares\environments_G8_MermaidLagoon.jpg
 ../main\char_Presidencial\lugares\environments_G8_XIPBFlightMeetingRoom.jpg
 ../main\char_Presidencial\lugares\environments_G8_XIPBFlightOffice.jpg
 ../main\char_Presidencial\lugares\environments_G8_XIPresidentialOffice.jpg
+../main\char_Streamer\FG Cosplay Streamer\environments_G9_FGCosplayStreamer.jpg
+../main\char_Streamer\FG Egirl\environments_G8_FGEgirlStreamer.jpg
+../main\clothing_FromFuture\Bounty Hunter Bundle\Smugglers Lair\environments_G8_SmugglersLair.jpg
+../main\clothing_Sports\Olympic Gymnastic\environments_G9F_OlympicGymnasticCircuit.jpg
 ../main\criatura_SpookyHollow\AlbertMansion\environments_G8_AlbertMansion.jpg
 ../main\criatura_SpookyHollow\GoresskullCopseHalloweenTrees\environments_G8_GoresskullCopseHalloweenTrees.jpg
 ../main\criatura_TreeGiant\GrassyGrove\environments_G8_GrassyGrove.jpg
 ../main\criatura_TremorsInTheSand\MegaTerrainSandDunes\environments_G8_MegaTerrainSandDunes.jpg
 ../main\env_Bank\Bank Heist\environments_G8_BankHeist.jpg
 ../main\env_Bank\PosesAndExpressions\environments_G8_ZBankVault.jpg
+../main\env_BigGame\American Football Field\environments_G8_AmericanFootballField.jpg
+../main\env_ClimbHigh\lugar\environments_G8F_MDCHGraniteClimbingRock.jpg
 ../main\env_computers\HackerComputerWorkstation\environments_G8_HackerComputerWorkstation.jpg
 ../main\env_computers\HackerHideoutRoom\environments_G8_HackerHideoutRoom.jpg
 ../main\env_computers\RetroServerRoom\environments_G8_RetroServerRoom.jpg
@@ -81,22 +96,34 @@
 ../main\env_enchantedGala\EnchantedBallroom\environments_G3_EnchantedBallroom.jpg
 ../main\env_Eventos\Classical Orchestra\environments_G8_ClassicalOrchestra.jpg
 ../main\env_Eventos\MD Unplugged\environments_G9_MDUnpluggedStudio.jpg
+../main\env_Fantasia\XI Magical Land Bundle\environments_G9_XIMagicalLandCity.jpg
+../main\env_Fantasia\XI Magical Land Bundle\environments_G9_XIMagicalLandLibrary.jpg
+../main\env_Fantasia\XI Magical Land Bundle\environments_G9_XIMagicalLandTown.jpg
 ../main\env_FromFuture\Cyberpunk City Bundle\environments_G8_CyberpunkStreet.jpg
 ../main\env_FromFuture\Cyberpunk City Bundle\environments_G8_XIModularFuturisticPrison.jpg
+../main\env_FromFuture\Cyberpunk Roads Kit\environments_G8_CyberpunkRoadsKit.jpg
 ../main\env_FromFuture\Cyberpunk Subway Station\environments_G8_CyberpunkSubwayStation.jpg
+../main\env_FromFuture\Futuristic Japan Bundle\environments_G8_NeoTokyo.jpg
+../main\env_FromFuture\Futuristic Japan Bundle\environments_G8_XICyberpunkJapaneseCastle.jpg
 ../main\env_FromFuture\PolishSecretBaseTunnel\environments_G8_PolishSecretBaseTunnel.jpg
 ../main\env_FromFuture\XICyberpunkMetroStation\environments_G8_XICyberpunkMetroStation.jpg
 ../main\env_FromPast\AltarSorrow\environments_G8_SorrowAltarDazStudio.jpg
+../main\env_FromPast\Ancient Egyptian Oasis Bundle\environments_G8_OasisDream.jpg
+../main\env_FromPast\Arabian Royalty\Shaded Sanctuary\environments_G3_ShadedSanctuary.jpg
 ../main\env_FromPast\Aztec\environments_G3_aztec0.jpg
 ../main\env_FromPast\Aztec\environments_G3_aztec1.jpg
+../main\env_FromPast\Beneath Fire Mountain\environments_G8_BeneathFireMountain.jpg
+../main\env_FromPast\Beneath Fire Mountain\environments_G8_Zharakadum.jpg
 ../main\env_FromPast\ChineseMountainTemple\environments_G8_ChineseMountainTemple.jpg
 ../main\env_FromPast\EgyptianPyramids1\environments_G3_egyptianPyramids.jpg
+../main\env_FromPast\Feudal Japan\environments_G8_FeudalJapan.jpg
 ../main\env_FromPast\JapaneseFeudalTowers1\environments_G8_FeudalJapaneseTowers1.jpg
 ../main\env_FromPast\JapaneseShinto\environments_G8_JapaneseShintoShrine.jpg
 ../main\env_FromPast\JapaneseTown\environments_G9_XIjapaneseTown.jpg
 ../main\env_FromPast\JapanWorldGardens\environments_G8_WorldGardensJapan.jpg
 ../main\env_FromPast\MedievalMarketStall\environments_G8_MedievalMarketStallBundle.jpg
 ../main\env_FromPast\Old Well\environments_G8_DMsOldWell.jpg
+../main\env_FromPast\Sentry Tower\environments_G8_SentryTower.jpg
 ../main\env_FromPast\XIArabianThroneRoom\environments_G8_XIArabianThroneRoom.jpg
 ../main\env_HorrorWorstNightmare\TheBasement\environments_G8_Basement.jpg
 ../main\env_HouseConstructionSite\FGUnderConstruction\environments_G8_FGUnderConstruction.jpg
@@ -107,11 +134,11 @@
 ../main\env_HouseFeedThePeople\OpenAirCafe\environments_G3_openAirCafe.jpg
 ../main\env_HouseFeedThePeople\RestaurantInterior\environments_G3_restaurantInterior.jpg
 ../main\env_HouseFeedThePeople\UrbanKitchen\environments_G3_urbanKitchen.jpg
+../main\env_Medical\MedicalCenterWaitingRoom\environments_G8_medicalCenterWaitingRoom.jpg
+../main\env_Medical\OperationTheater\environments_G8_operationTheater.jpg
+../main\env_Medical\TeslaICURoom\environments_G8_teslaIcuRoom.jpg
+../main\env_Medical\TSHospitalCorridor\environments_G8_hospitalCorridor.jpg
 ../main\env_Medical\Z Doctor Room And Poses\environments_G8_ZDoctorRoomAndPoses.jpg
-../main\env_MedicalFrontlineHeroes\MedicalCenterWaitingRoom\environments_G8_medicalCenterWaitingRoom.jpg
-../main\env_MedicalFrontlineHeroes\OperationTheater\environments_G8_operationTheater.jpg
-../main\env_MedicalFrontlineHeroes\TeslaICURoom\environments_G8_teslaIcuRoom.jpg
-../main\env_MedicalFrontlineHeroes\TSHospitalCorridor\environments_G8_hospitalCorridor.jpg
 ../main\env_newsroom\ActionNewsCenter\environments_G8_ActionNewsCenter.jpg
 ../main\env_newsroom\FGNewsroom\environments_G8_FGNewsroom.jpg
 ../main\env_newsroom\PosesAndExpressions\environments_G8_i13NewsroomWithPoses.jpg
@@ -119,6 +146,8 @@
 ../main\env_Ocean\GazeboGardenandPatioSet\environments_G8_GardenAndPatioSet.jpg
 ../main\env_Ocean\SeasideGateandPatio\environments_G8_SeasideGateAndPatio.jpg
 ../main\env_Ocean\SouthwestHarbor\environments_G8_SouthwestHarbor.jpg
+../main\env_postApocaliptic\GasStation\environments_G9_GasStation.jpg
+../main\env_postApocaliptic\TheSafeHouse\environments_G8_TheSafeHouse.jpg
 ../main\env_Prehistoric\KAPrehistoricLands\environments_G8M_PrehistoricLands.jpg
 ../main\env_PresentRural\1stBastionsWildernessTwoCreeks\environments_G3_1stbastionsWildernessTwoCreeks.jpg
 ../main\env_PresentRural\1stBUsefulCliffs3VignettesScenes\environments_G8_UsefulCliffs3vignettes.jpg
@@ -140,13 +169,17 @@
 ../main\env_PresentUrban\carniceria\environments_G8_ButcherShop.jpg
 ../main\env_PresentUrban\CityWaterway\environments_G8_CityWaterway.jpg
 ../main\env_PresentUrban\Classroom\ClassroomEnvironment\environments_G8_ClassroomEnvironment.jpg
+../main\env_PresentUrban\Desert Motel\environments_G8_DesertMotel.jpg
 ../main\env_PresentUrban\env_toilets\AbandonedToilet\environments_G8_AbandonedToilet.jpg
 ../main\env_PresentUrban\env_toilets\PublicToilet\environments_G8_PublicToilet.jpg
 ../main\env_PresentUrban\Jail\JailCellBlock\environments_G3_JailCellBlock.jpg
 ../main\env_PresentUrban\LowPolyUrbanScene\environments_G8_LowPolyUrbanScene.jpg
 ../main\env_PresentUrban\MultiStage\environments_G8_MultiStage.jpg
 ../main\env_PresentUrban\NeighboursFrontDrive\environments_G8_NeighboursFrontDrive.jpg
+../main\env_PresentUrban\Polish Whitewave Beach\environments_G8_PolishWhitewaveBeach.jpg
 ../main\env_PresentUrban\Rising Sun\environments_G8_RisingSun.jpg
+../main\env_PresentUrban\Rooftop Cottage\environments_G8_RooftopCottage.jpg
+../main\env_PresentUrban\The Streets of Japan\environments_G8_TheStreetsOfJapan.jpg
 ../main\env_PresentUrban\tiendas\BotStore\environments_G8_BotStore.jpg
 ../main\env_PresentUrban\tiendas\FGWoodenFurnitureStore\environments_G8_FGWoodenFurnitureStore.jpg
 ../main\env_PresentUrban\tiendas\kiosco\environments_G3_UrbanJungle_SushiKiosk.jpg
@@ -162,16 +195,21 @@
 ../main\env_RoyalPalace\XIRPBOffice\environments_G9_XIRPBOffice.jpg
 ../main\env_RoyalPalace\XIRPBPalace\environments_G9_XIRPBPalace.jpg
 ../main\env_RoyalPalace\XIRPBStateRoom\environments_G9_XIRPBStateRoom.jpg
-../main\env_Space\env_CountdownToLaunch\environments_G8_Artemis13HABexterior.jpg
-../main\env_Space\env_CountdownToLaunch\environments_G8_Jupiter5LaunchComplex.jpg
-../main\env_Space\env_CountdownToLaunch\environments_G8_MoonLanding.jpg
-../main\env_Space\env_CountdownToLaunch\environments_G8_RocketLaunchVDB.jpg
-../main\env_Space\env_SciFiSpaceKit\environments_G9_NCSCrewQuarters.jpg
-../main\env_Space\env_SciFiSpaceKit\environments_G9_NCSCrewQuartersAddOn.jpg
-../main\env_Space\env_SciFiSpaceKit\environments_G9_NCSMessHall.jpg
-../main\env_Space\env_SciFiSpaceKit\environments_G9_NCSTurboLift.jpg
-../main\env_Space\env_SpaceExplorers\environments_G8_xBITPilotStar.jpg
-../main\env_Space\sistemaSolar\environments_G8_SolarSystemSuperBundle.jpg
+../main\env_SciFi\env_CountdownToLaunch\environments_G8_Artemis13HABexterior.jpg
+../main\env_SciFi\env_CountdownToLaunch\environments_G8_Jupiter5LaunchComplex.jpg
+../main\env_SciFi\env_CountdownToLaunch\environments_G8_MoonLanding.jpg
+../main\env_SciFi\env_CountdownToLaunch\environments_G8_RocketLaunchVDB.jpg
+../main\env_SciFi\env_SciFiSpaceKit\environments_G9_NCSCrewQuarters.jpg
+../main\env_SciFi\env_SciFiSpaceKit\environments_G9_NCSCrewQuartersAddOn.jpg
+../main\env_SciFi\env_SciFiSpaceKit\environments_G9_NCSMessHall.jpg
+../main\env_SciFi\env_SciFiSpaceKit\environments_G9_NCSTurboLift.jpg
+../main\env_SciFi\env_SpaceExplorers\environments_G8_xBITPilotStar.jpg
+../main\env_SciFi\Sci-Fi Marine Hospital\environments_G8_SciFiMarineHospital.jpg
+../main\env_SciFi\Sci-Fi Starship\environments_G9_SciFiStarshipBridge.jpg
+../main\env_SciFi\Sci-Fi Starship\environments_G9_SciFiStarshipBriefingRoom.jpg
+../main\env_SciFi\Sci-Fi Starship\environments_G9_SciFiStarshipCargoHold.jpg
+../main\env_SciFi\Sci-Fi Starship\environments_G9_SciFiStarshipShuttleBay.jpg
+../main\env_SciFi\sistemaSolar\environments_G8_SolarSystemSuperBundle.jpg
 ../main\env_Sports\FGMartialArtsDojo\environments_G8_FGMartialArtsDojo.jpg
 ../main\env_Sports\SportGetInTheRing\AJCUltimateArenaFight\environments_G8_ultimateArena.jpg
 ../main\env_Sports\SportUndergroundFighting\environments_G8_UndergroundFightingScenes.jpg
@@ -179,9 +217,10 @@
 ../main\env_SteampunkSherlock\Mysterious Office\environments_G8_MysteriousOffice.jpg
 ../main\env_SteampunkSherlock\The Streets of Steampunk\environments_G8_TheStreetsOfSteampunk.jpg
 ../main\env_Studio\STZ Photo Studio\environments_G8_STZphotoStudio.jpg
-../main\env_subway\SubwayStation\environments_G8_Historicsubwaystation.jpg
-../main\env_summerheat\XIBeachCabana\environments_G9_XIbeachCabana.jpg
-../main\env_SurvivalInstinct\TheSafeHouseBundle\environments_G8_TheSafeHouse.jpg
+../main\env_Subway\SubwayStation\environments_G8_Historicsubwaystation.jpg
+../main\env_Summerheat\XIBeachCabana\environments_G9_XIbeachCabana.jpg
+../main\env_Sumo\Sumo Dohyo and Props\environments_G3_SumoDohyoAndProps.jpg
+../main\env_Sumo\Sumo Stable\environments_G3_SumoStable.jpg
 ../main\env_UndergroundBase\SecretUndergroundBaseandSubmarine\environments_G8_SecretUndergroundBaseBundle.jpg
 ../main\env_WildWestG8\WildWestTown\environments_G8_WildWestTown.jpg
 ../main\G3_loveableNerds\CampusLibrary\environments_G3_CampusLibrary.jpg
@@ -196,12 +235,15 @@
 ../main\game_ResidentEvil\environments\RPDparkingLot\environments_G8_RPDParkinglot.jpg
 ../main\game_ResidentEvil\environments\StartStore\environments_G8_RE2store1.jpg
 ../main\game_ResidentEvil\environments\StartStore\environments_G8_RE2store3.jpg
-../main\history_Cheyenne\NativeCheyenneVillage\environments_V4_NativeCheyenneVillage00.jpg
+../main\history_Natives\NativeCheyenneVillage\environments_V4_NativeCheyenneVillage00.jpg
+../main\mit_Barbarian\JungleRuinsRedux\environments_G9_JungleRuinsRedux.jpg
 ../main\mit_Mummy8\EgyptianTombSceneandProps\environments_G8_EgyptianTomb.jpg
 ../main\mit_sirenidosCoral8\AquaticFantasyPiratesWreckage\environments_G8_PiratesWreckage.jpg
 ../main\mit_sirenidosCoral8\UnderwaterTreasure\environments_G8_UnderwaterTreasure.jpg
+../main\movie_Batman\Dark Knight Bundle\environments_G9_DarkKnightCave.jpg
 ../main\movie_Caldwell9AndTheAliens\IntheHeartoftheBeast\environments_G9_IntheHeartoftheBeast.jpg
 ../main\propAsset_barbedWire\environments_G8_MovieSetsLowPoly01.jpg
 ../main\propAsset_crimeScene\Detective Bundle\environments_G3_OldWarehouse.jpg
 ../main\propAsset_shower\BeachShower\environments_G8_BeachShowerDS.jpg
 ../main\toonG9F_Kiri9\XIAnimeCityStreet\environments_G9_animeCityStreet.jpg
+../main\vehicles_land\JDM Legends Car\environments_G8_TunerGarage.jpg
